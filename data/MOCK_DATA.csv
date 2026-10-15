@@ -1,0 +1,1001 @@
+bin_id,weight,bin_type,location,pickup_date,pickup_time,recycling_type,waste_category,recycling_bin_color,recycling_bin_size
+1,93.8,waste,98996 Holy Cross Lane,3/21/2022,8:58 PM,paper,non-recyclable,#1957d1,small
+2,17.32,compost,0857 Susan Lane,8/5/2022,5:46 PM,plastic,non-recyclable,#50c6f6,large
+3,48.2,waste,1 Darwin Avenue,3/31/2022,3:24 AM,plastic,non-recyclable,#ef6f39,medium
+4,17.61,waste,56705 Cherokee Plaza,4/15/2022,11:05 PM,plastic,non-recyclable,#5a6768,small
+5,89.4,waste,66 Arrowood Alley,11/6/2022,2:37 PM,paper,non-recyclable,#c5772b,medium
+6,65.73,compost,70 Hoard Point,9/11/2022,6:55 PM,plastic,food waste,#0ca345,small
+7,45.18,recycling,8453 Warner Center,12/25/2022,5:51 PM,glass,hazardous waste,#62715d,medium
+8,45.19,recycling,,3/21/2022,1:53 AM,plastic,non-recyclable,#0bce33,small
+9,60.11,recycling,7 East Circle,12/11/2022,11:01 PM,glass,non-recyclable,#52024e,large
+10,23.75,compost,0 Lawn Drive,11/14/2022,11:26 AM,metal,food waste,#7f78c3,large
+11,38.35,recycling,39 Spaight Street,5/14/2022,5:32 PM,plastic,hazardous waste,#190b01,small
+12,14.38,waste,1358 Stone Corner Parkway,8/11/2022,9:40 PM,glass,hazardous waste,#60659f,small
+13,38.01,compost,549 Superior Center,4/15/2022,11:54 PM,paper,hazardous waste,#2df9c0,medium
+14,18.75,recycling,4780 Reindahl Point,6/16/2022,10:45 AM,paper,non-recyclable,#8cdaab,medium
+15,41.66,recycling,6328 Browning Avenue,4/7/2022,2:18 PM,paper,hazardous waste,#7ee9d6,small
+16,13.54,waste,468 Lukken Terrace,5/28/2022,5:21 AM,paper,food waste,#b8c510,small
+17,65.25,compost,3 Erie Park,10/24/2022,10:59 PM,glass,non-recyclable,#67233f,large
+18,61.51,recycling,69 Eagan Circle,6/1/2022,8:57 PM,paper,food waste,#89086b,large
+19,32.3,waste,4 Eliot Drive,3/25/2022,2:22 AM,paper,hazardous waste,#19e9a0,medium
+20,65.93,waste,2 Corben Place,12/18/2022,7:47 AM,plastic,hazardous waste,#2af8f4,medium
+21,68.77,recycling,84067 Buhler Terrace,9/30/2022,5:25 AM,plastic,non-recyclable,#952305,large
+22,13.19,waste,0 Buhler Park,7/6/2022,6:08 AM,metal,hazardous waste,#4e78ff,medium
+23,37.5,waste,7 Crowley Trail,6/28/2022,10:35 AM,glass,non-recyclable,#ba9cce,large
+24,68.46,waste,78 Summerview Circle,7/27/2022,8:22 PM,plastic,food waste,#b113d6,medium
+25,98.16,compost,80 Gulseth Circle,4/26/2022,3:22 PM,glass,non-recyclable,#70ba60,large
+26,75.84,recycling,5233 Portage Crossing,4/30/2022,7:31 PM,plastic,non-recyclable,#3349b7,large
+27,52.65,compost,0 Sommers Hill,8/31/2022,6:51 PM,paper,hazardous waste,,small
+28,41.39,waste,3881 Karstens Hill,3/25/2022,12:24 AM,glass,food waste,#0df62f,small
+29,85.16,compost,188 Ilene Avenue,9/9/2022,11:59 AM,glass,hazardous waste,#854acc,large
+30,40.24,compost,01 Pine View Terrace,4/11/2022,2:46 PM,glass,hazardous waste,#2b17b2,medium
+31,32.16,compost,48832 Dovetail Center,10/4/2022,5:51 PM,paper,hazardous waste,#656161,small
+32,17.09,recycling,771 Talmadge Center,11/10/2022,7:13 AM,glass,food waste,#0cf4a9,large
+33,52.13,compost,37 Dayton Circle,9/25/2022,10:33 PM,plastic,hazardous waste,#2eadeb,small
+34,19.15,compost,1134 Milwaukee Parkway,4/12/2022,5:58 PM,glass,non-recyclable,#afea00,small
+35,27.27,waste,7936 Eastlawn Circle,2/11/2022,12:18 AM,plastic,non-recyclable,#033d49,medium
+36,2.72,compost,598 Brentwood Plaza,9/12/2022,5:01 AM,glass,non-recyclable,#ba3813,small
+37,83.19,compost,131 Bunker Hill Way,8/18/2022,4:38 AM,glass,non-recyclable,#53c114,large
+38,38.83,compost,30 Gateway Place,3/8/2022,10:24 AM,glass,non-recyclable,#54821e,medium
+39,23.13,waste,0 Summer Ridge Center,1/24/2022,9:25 PM,metal,hazardous waste,#76bec3,small
+40,16.31,waste,66 Merry Center,7/8/2022,5:49 AM,paper,non-recyclable,#f997e0,medium
+41,10.5,compost,9679 American Ash Lane,3/29/2022,2:43 PM,plastic,hazardous waste,#3290e3,large
+42,49.72,waste,1 Granby Trail,10/17/2022,1:41 PM,paper,non-recyclable,#f9d16c,small
+43,70.01,waste,50611 Evergreen Way,3/30/2022,3:06 AM,plastic,food waste,#f9d860,medium
+44,5.85,waste,735 Fisk Way,2/10/2022,3:33 AM,plastic,non-recyclable,#eb7ea8,small
+45,32.39,waste,37 Northland Alley,6/24/2022,6:56 AM,plastic,food waste,#781e82,large
+46,76.46,compost,34883 Melrose Parkway,6/19/2022,7:01 PM,paper,food waste,#71f1b0,large
+47,65.12,recycling,0 Starling Pass,9/16/2022,1:36 PM,metal,hazardous waste,#a9dbe6,medium
+48,60.13,compost,83 Esker Court,6/10/2022,1:35 AM,metal,food waste,#770848,medium
+49,47.57,compost,4594 Pleasure Way,3/20/2022,9:42 AM,glass,food waste,#d0c5ea,large
+50,74.72,recycling,887 Bartelt Pass,12/17/2022,8:03 PM,metal,non-recyclable,#281a18,small
+51,66.79,recycling,,3/21/2022,2:22 PM,paper,hazardous waste,#f0fbef,small
+52,31.47,waste,6 Everett Road,5/4/2022,4:28 PM,plastic,non-recyclable,#5a65ed,small
+53,7.46,compost,848 Eliot Street,9/18/2022,3:31 PM,paper,non-recyclable,#317baa,large
+,80.43,recycling,4145 Harper Center,10/16/2022,6:18 PM,paper,food waste,#2d080d,medium
+55,31.55,compost,232 Dottie Plaza,3/22/2022,1:03 PM,paper,food waste,#5d36f0,large
+56,99.01,recycling,042 Westridge Road,3/3/2022,1:57 PM,paper,hazardous waste,#fa4628,small
+57,7.3,recycling,3 Burrows Crossing,12/5/2022,8:55 AM,paper,hazardous waste,#5f88e5,small
+58,99.12,recycling,,12/23/2022,2:05 AM,metal,hazardous waste,#c849d9,large
+59,89.35,recycling,930 Cascade Junction,6/13/2022,7:05 AM,paper,non-recyclable,,large
+60,74.54,compost,542 Little Fleur Parkway,4/26/2022,7:11 AM,paper,food waste,#cd5da5,large
+61,40.34,recycling,58 Little Fleur Court,8/8/2022,3:09 AM,plastic,non-recyclable,#b6c612,large
+62,60.85,waste,7 Randy Way,3/1/2022,9:36 AM,plastic,food waste,#f17b4a,small
+63,19.94,recycling,,3/17/2022,4:49 AM,paper,food waste,#da3391,large
+64,91.98,compost,03 Carey Junction,5/8/2022,10:56 AM,paper,non-recyclable,#bb2a08,small
+65,45.36,waste,29082 Stoughton Center,5/19/2022,4:28 AM,glass,hazardous waste,#3e2ca6,medium
+66,86.66,compost,26021 Larry Circle,10/25/2022,10:56 PM,paper,non-recyclable,#7df826,small
+67,38.47,recycling,74876 Holy Cross Drive,7/24/2022,2:46 PM,metal,non-recyclable,#afe1e5,medium
+68,91.33,recycling,189 Schlimgen Trail,3/2/2022,10:02 AM,paper,non-recyclable,#6c216d,medium
+69,45.26,compost,97967 Sycamore Crossing,3/27/2022,2:26 PM,glass,food waste,#90e451,medium
+70,35.18,recycling,24 Northport Plaza,5/20/2022,5:10 PM,glass,food waste,#b604fc,large
+71,57.25,compost,5842 Almo Point,3/29/2022,6:42 PM,metal,hazardous waste,#9f1583,small
+72,30.62,compost,592 Vermont Circle,6/3/2022,5:55 AM,metal,food waste,#5cfcef,large
+73,84.49,recycling,80 Larry Way,12/22/2022,8:50 AM,paper,food waste,#576f06,small
+74,44.35,waste,1 Hauk Place,7/8/2022,3:30 PM,paper,food waste,#b8d82a,large
+75,30.45,recycling,918 Michigan Crossing,4/5/2022,9:49 AM,metal,food waste,#73a903,medium
+76,14.9,recycling,059 Shopko Circle,12/15/2022,11:52 AM,plastic,hazardous waste,#ccb681,large
+77,67.3,compost,9 Westport Junction,9/5/2022,3:21 AM,plastic,hazardous waste,#b0a508,small
+78,79.2,compost,38 Paget Plaza,2/16/2022,1:25 AM,metal,food waste,#042044,medium
+79,82.6,compost,19 Fuller Terrace,1/2/2022,7:40 AM,paper,non-recyclable,#7fba3f,small
+80,85.67,recycling,201 Commercial Park,3/15/2022,8:54 AM,metal,hazardous waste,#aa8c09,large
+81,60.39,waste,6062 Green Ridge Road,1/6/2022,5:56 AM,glass,food waste,#f22c10,small
+82,90.07,recycling,3 Village Parkway,11/23/2022,12:58 AM,plastic,hazardous waste,#c6cb29,small
+83,22.45,waste,6 Jenifer Alley,7/27/2022,3:58 AM,plastic,non-recyclable,#1c4812,small
+84,15.05,recycling,14016 Michigan Park,2/2/2022,11:24 PM,glass,hazardous waste,#558bcf,large
+85,90.57,recycling,36 Gina Crossing,9/15/2022,9:42 AM,metal,non-recyclable,#5d2ea9,large
+86,80.1,compost,24312 Meadow Valley Lane,7/9/2022,8:15 AM,paper,non-recyclable,#0977b9,small
+87,39.6,waste,930 South Pass,12/23/2022,9:28 PM,paper,hazardous waste,#1a4bfa,small
+88,90.29,waste,6 8th Alley,11/15/2022,11:28 PM,metal,hazardous waste,#b0b20f,medium
+89,98.52,recycling,922 Arrowood Lane,7/30/2022,11:05 AM,metal,food waste,#e9b63f,small
+90,51.61,recycling,634 Riverside Pass,4/16/2022,8:58 PM,glass,hazardous waste,#60f270,medium
+91,30.1,recycling,0 Debra Circle,3/31/2022,2:39 PM,metal,hazardous waste,#a62889,large
+92,23.28,compost,,6/16/2022,8:39 PM,plastic,non-recyclable,#52244a,large
+93,49.74,recycling,772 Sunnyside Plaza,10/2/2022,3:52 AM,plastic,food waste,#bed3d4,large
+94,28.08,waste,6 Moulton Place,9/2/2022,11:53 AM,plastic,food waste,#6b38e3,small
+95,33.41,compost,739 Sunfield Alley,10/30/2022,4:31 PM,metal,food waste,#651ae6,large
+96,74.46,compost,3623 Veith Plaza,1/28/2022,2:08 AM,metal,non-recyclable,#ed1931,medium
+97,77.74,compost,5489 Warner Lane,7/8/2022,8:23 PM,plastic,food waste,#efcd97,large
+98,31.68,recycling,103 Coleman Road,3/13/2022,7:08 AM,glass,hazardous waste,#c6fddb,small
+99,24.52,recycling,38337 Dixon Place,2/22/2022,12:55 PM,metal,food waste,#2eb6de,large
+100,51.6,recycling,2927 Onsgard Crossing,2/20/2022,5:19 PM,plastic,hazardous waste,#a57e37,large
+101,73.77,recycling,6 Valley Edge Pass,4/17/2022,2:37 AM,plastic,non-recyclable,#85c260,medium
+102,91.61,compost,,1/3/2022,9:59 PM,plastic,food waste,#58cb2f,large
+,9.11,compost,59 Mallory Plaza,6/11/2022,8:51 PM,metal,food waste,#5db282,medium
+104,94.95,recycling,92976 Bunker Hill Way,6/23/2022,1:48 AM,glass,hazardous waste,#3472bc,small
+105,15.98,compost,23108 Nancy Parkway,1/1/2022,4:28 AM,metal,food waste,#8feeef,medium
+106,47.85,waste,15 Crescent Oaks Street,3/23/2022,7:50 AM,paper,hazardous waste,#4a1581,medium
+107,52.2,waste,4746 Harper Park,8/30/2022,3:22 AM,plastic,hazardous waste,#9f8fba,small
+108,32.77,recycling,4 Linden Avenue,9/3/2022,3:28 AM,metal,food waste,,small
+109,0.89,waste,70943 6th Avenue,8/15/2022,11:19 AM,glass,food waste,#c2c788,medium
+110,8.48,compost,2748 Troy Crossing,3/7/2022,9:09 PM,metal,hazardous waste,#85aaa8,large
+111,7.9,recycling,4975 Loeprich Road,10/12/2022,10:37 PM,plastic,non-recyclable,#666144,small
+112,62.92,waste,376 Transport Alley,12/26/2022,12:13 AM,glass,hazardous waste,#670cc3,small
+113,88.42,recycling,06 Randy Terrace,5/30/2022,6:12 AM,plastic,non-recyclable,#331d61,large
+114,60.35,waste,79634 Morrow Junction,2/13/2022,8:06 PM,glass,food waste,#e37523,large
+115,74.73,compost,75 Lillian Road,9/27/2022,9:45 PM,glass,hazardous waste,#e40b04,large
+116,90.14,waste,93733 Straubel Court,6/12/2022,12:32 PM,metal,non-recyclable,#7727db,large
+117,69.65,waste,8 Oneill Place,12/26/2022,5:11 AM,glass,food waste,#77b393,small
+118,50.98,waste,02 Miller Alley,1/31/2022,10:51 AM,paper,hazardous waste,#8ad82d,large
+119,69.54,waste,0275 Toban Lane,4/9/2022,7:16 PM,metal,non-recyclable,#d485d8,small
+120,19.14,waste,79 Eagan Junction,12/23/2022,5:41 AM,plastic,hazardous waste,#06fd13,medium
+121,95.21,recycling,48592 Kropf Terrace,2/7/2022,5:33 PM,paper,non-recyclable,#136f8f,small
+122,24.21,recycling,3 Ridgeway Point,2/18/2022,3:21 AM,glass,hazardous waste,#b6c2b9,large
+123,45.57,waste,5 Judy Plaza,9/2/2022,7:51 AM,metal,food waste,#3df6cd,large
+124,67.34,compost,5898 Eliot Drive,6/4/2022,6:04 PM,plastic,food waste,#05abc8,small
+125,28.15,waste,0 Springview Street,11/16/2022,5:44 AM,glass,food waste,#0ced6b,large
+126,24.38,waste,7 Bartelt Plaza,4/30/2022,5:04 AM,plastic,non-recyclable,#180230,small
+127,12.78,recycling,593 Emmet Court,2/12/2022,9:46 PM,paper,food waste,#ef59fa,large
+128,71.24,recycling,600 Meadow Vale Hill,7/26/2022,4:50 AM,paper,food waste,#03ffee,small
+129,25.44,compost,047 Service Trail,4/7/2022,3:20 PM,paper,food waste,#83d446,small
+130,1.72,waste,18 Anderson Point,5/7/2022,8:51 AM,glass,hazardous waste,#7b4902,large
+131,39.06,recycling,3 Red Cloud Road,12/5/2022,6:00 PM,glass,food waste,#f57564,medium
+132,24.35,recycling,3 Thierer Parkway,10/15/2022,10:21 AM,glass,food waste,#421f19,medium
+133,46.34,waste,96 Lighthouse Bay Lane,1/23/2022,10:54 AM,paper,food waste,#b5bae5,small
+134,36.85,waste,37911 Schmedeman Trail,8/24/2022,1:22 AM,metal,non-recyclable,#8e5dfb,medium
+135,51.2,compost,44661 Westport Park,4/29/2022,9:13 PM,plastic,food waste,#b44873,medium
+136,55.7,waste,4223 Bluestem Street,11/11/2022,2:56 PM,metal,food waste,#d31675,large
+137,81.56,compost,3066 Upham Crossing,10/24/2022,10:17 PM,metal,food waste,#39d8b0,small
+138,15.52,recycling,61145 Service Court,4/2/2022,4:56 PM,metal,non-recyclable,#49afee,small
+139,59.93,compost,07157 Namekagon Point,9/10/2022,10:34 PM,plastic,food waste,#666343,medium
+140,19.29,compost,01 Jay Terrace,9/10/2022,4:36 AM,paper,food waste,,small
+141,86.86,recycling,,10/16/2022,10:50 PM,metal,food waste,#29c3a4,large
+142,2.27,recycling,65 Lindbergh Road,10/13/2022,9:33 PM,glass,non-recyclable,#161669,small
+143,42.07,waste,308 Morning Street,1/23/2022,12:38 AM,glass,non-recyclable,#48a0ba,medium
+144,74.5,waste,9734 Bunker Hill Lane,5/23/2022,8:13 AM,metal,non-recyclable,#b0f7c1,large
+145,18.05,compost,8453 Ryan Hill,1/27/2022,11:18 AM,plastic,food waste,#d6602e,large
+146,71.92,waste,5806 Oak Lane,5/29/2022,5:38 PM,paper,food waste,#b84290,large
+147,97.8,waste,5355 Sutherland Junction,12/5/2022,2:45 AM,paper,non-recyclable,#7ffa16,medium
+148,97.06,compost,2452 Northridge Road,7/8/2022,11:04 PM,metal,hazardous waste,#026cec,medium
+149,6.09,waste,390 Rieder Alley,6/15/2022,3:45 AM,plastic,non-recyclable,#ac2d1b,small
+150,89.95,recycling,971 Atwood Circle,8/12/2022,12:08 PM,metal,hazardous waste,,large
+151,88.93,compost,6856 Knutson Alley,5/31/2022,10:49 PM,metal,food waste,#84532e,medium
+152,39.59,waste,814 Michigan Park,1/5/2022,6:51 AM,paper,hazardous waste,#621c04,large
+153,17.03,recycling,336 Mcbride Place,11/29/2022,10:17 AM,glass,non-recyclable,#df117f,small
+154,57.18,waste,324 Blaine Lane,10/25/2022,1:16 PM,plastic,food waste,#2c6c43,large
+155,22.65,waste,9262 Corscot Drive,11/21/2022,8:31 PM,metal,hazardous waste,#4f9955,large
+156,15.21,recycling,866 Melody Point,7/23/2022,10:07 AM,metal,non-recyclable,#01da6f,small
+157,2.69,compost,5511 Graceland Road,2/7/2022,3:29 PM,plastic,food waste,#8758d4,small
+158,96.06,waste,0669 Memorial Junction,6/27/2022,11:20 PM,metal,non-recyclable,#eff543,medium
+159,57.94,recycling,050 Starling Street,12/26/2022,12:34 PM,metal,hazardous waste,#ca8b67,small
+160,90.87,recycling,1049 Becker Way,12/13/2022,3:21 AM,paper,hazardous waste,#5c7606,large
+161,73.43,recycling,,1/31/2022,1:53 PM,plastic,non-recyclable,#bbb588,medium
+162,7.06,recycling,64571 Pierstorff Street,1/1/2022,10:08 AM,glass,hazardous waste,#fceb4e,large
+163,21.99,compost,76 Rigney Hill,3/5/2022,6:42 AM,glass,non-recyclable,,small
+164,97.37,compost,927 Knutson Avenue,9/23/2022,12:25 AM,paper,non-recyclable,,small
+165,69.3,compost,9 Gina Street,3/23/2022,12:46 AM,glass,food waste,,medium
+166,35.91,recycling,9609 Forest Dale Pass,7/21/2022,8:14 AM,paper,hazardous waste,#dd9e88,small
+167,81.07,compost,958 Londonderry Parkway,2/20/2022,4:03 PM,plastic,hazardous waste,,small
+168,81.9,waste,,7/5/2022,6:07 PM,metal,food waste,#b2c84e,small
+169,20.6,recycling,76 Russell Lane,4/2/2022,10:29 PM,glass,non-recyclable,#262e55,medium
+170,99.07,compost,0341 Gateway Road,5/4/2022,3:35 PM,glass,non-recyclable,#139c5e,small
+171,53.48,waste,77 Elmside Junction,12/19/2022,11:34 AM,paper,food waste,#d017de,large
+172,85.91,compost,46604 Village Green Crossing,5/23/2022,7:29 AM,glass,non-recyclable,#2ac6a3,large
+,17.8,compost,34 Loeprich Parkway,9/3/2022,2:26 AM,plastic,non-recyclable,#d6a6a4,medium
+174,75.93,waste,9 Merrick Place,12/7/2022,8:37 AM,plastic,hazardous waste,#492f1d,large
+175,15.95,recycling,193 Roth Pass,12/13/2022,5:29 PM,plastic,food waste,#88dae9,medium
+176,63.19,waste,751 Forest Dale Court,8/26/2022,8:41 PM,plastic,non-recyclable,#2821d7,small
+177,58.16,compost,7 Kenwood Drive,7/16/2022,12:30 PM,metal,non-recyclable,#a5555b,medium
+178,35.66,compost,0455 Bonner Road,11/1/2022,3:51 PM,metal,hazardous waste,#0e46fc,large
+179,56.7,compost,2 Columbus Road,10/27/2022,10:08 PM,paper,hazardous waste,#c8b7d5,medium
+180,60.11,recycling,1899 Pankratz Terrace,3/16/2022,1:10 AM,paper,hazardous waste,#af35fa,medium
+181,31.0,compost,08 Utah Way,12/7/2022,6:41 AM,metal,hazardous waste,#15c183,large
+182,40.42,waste,8 Monica Drive,11/25/2022,1:21 PM,plastic,non-recyclable,#0f24b8,medium
+183,24.22,waste,715 Eggendart Parkway,7/26/2022,7:08 PM,plastic,hazardous waste,#7b9d25,large
+184,57.74,compost,014 Clemons Alley,11/16/2022,9:08 PM,plastic,hazardous waste,#5570ff,large
+185,9.55,waste,2787 Sage Junction,4/30/2022,5:49 PM,metal,non-recyclable,#256497,large
+186,66.01,recycling,5305 Nelson Plaza,9/7/2022,7:31 PM,glass,hazardous waste,#9f95c3,large
+187,11.06,recycling,31586 Holmberg Drive,12/27/2022,3:39 AM,glass,food waste,#4fe5b9,large
+188,16.53,compost,36188 Burrows Plaza,12/22/2022,6:15 PM,metal,food waste,#d6e982,large
+189,7.42,compost,93 Aberg Avenue,11/18/2022,2:21 PM,metal,non-recyclable,#dddaac,small
+,56.0,recycling,8 Buhler Hill,8/2/2022,11:56 AM,metal,hazardous waste,#21bee1,medium
+191,78.15,compost,5 7th Parkway,12/1/2022,8:39 AM,plastic,non-recyclable,#f86b95,medium
+192,21.22,compost,586 Fairfield Way,7/19/2022,7:05 AM,metal,hazardous waste,#8afe11,small
+193,64.74,recycling,0334 Talmadge Junction,3/8/2022,6:07 AM,glass,hazardous waste,#e2eafd,medium
+194,81.74,waste,31 Bunting Terrace,2/19/2022,10:27 PM,metal,non-recyclable,#316051,small
+195,53.56,compost,7 Oakridge Pass,10/26/2022,9:12 PM,glass,food waste,#9d7af7,medium
+196,5.34,compost,0 Nevada Place,11/10/2022,2:31 AM,metal,hazardous waste,#0c8b8e,small
+197,79.83,compost,42 Carberry Road,12/24/2022,12:09 AM,metal,non-recyclable,#5a9825,small
+198,11.52,compost,074 Sheridan Drive,7/10/2022,1:33 AM,metal,non-recyclable,#1831e9,large
+199,72.17,waste,6485 Fordem Way,2/21/2022,6:34 PM,paper,non-recyclable,#a0cddf,medium
+200,18.99,waste,5 Bay Crossing,12/26/2022,1:09 PM,plastic,hazardous waste,#e2eeb2,medium
+201,3.83,waste,04 Fulton Place,3/25/2022,11:57 AM,paper,food waste,#1a7a18,large
+202,4.37,waste,,8/7/2022,7:17 PM,plastic,non-recyclable,#166c1f,large
+203,57.44,recycling,4913 Bobwhite Junction,3/9/2022,12:41 AM,paper,food waste,#4ab422,small
+204,34.66,compost,988 Northwestern Park,3/2/2022,2:46 PM,paper,non-recyclable,#f7b06a,large
+205,76.81,waste,89 Sachtjen Park,9/20/2022,12:33 AM,metal,non-recyclable,#56b8b6,medium
+206,37.9,compost,49139 Tennessee Pass,2/12/2022,4:20 PM,paper,food waste,#09bfec,medium
+207,21.17,compost,1931 Sommers Crossing,12/15/2022,4:40 AM,paper,non-recyclable,#ed261f,medium
+208,69.33,compost,2273 Butternut Circle,5/4/2022,5:30 PM,metal,non-recyclable,#86f221,large
+209,38.88,compost,7 Shopko Drive,12/2/2022,10:43 PM,plastic,hazardous waste,#f5e9c8,small
+210,61.49,waste,917 Almo Plaza,8/14/2022,7:30 PM,plastic,non-recyclable,#001628,small
+211,2.84,waste,5805 Badeau Road,6/9/2022,10:54 AM,plastic,food waste,#1050e9,large
+212,2.06,waste,3 Grasskamp Circle,9/11/2022,7:49 AM,glass,non-recyclable,#492aec,large
+213,9.31,waste,567 Packers Point,10/26/2022,12:23 AM,metal,hazardous waste,#66bae2,medium
+214,71.16,waste,390 3rd Alley,4/13/2022,1:49 PM,paper,food waste,#a354e5,medium
+215,78.21,waste,203 Morrow Lane,2/8/2022,2:46 PM,metal,hazardous waste,#1fc2bc,medium
+216,7.77,recycling,309 Oxford Court,5/2/2022,3:19 AM,paper,food waste,,small
+217,5.76,compost,17 Arapahoe Terrace,10/28/2022,11:53 AM,metal,hazardous waste,#c3dece,large
+218,72.9,compost,248 Golden Leaf Trail,10/31/2022,11:53 AM,plastic,food waste,#e1a2fd,medium
+219,55.94,compost,258 Old Shore Alley,11/18/2022,5:17 AM,metal,food waste,#4d1865,large
+220,77.15,recycling,76355 Mcguire Pass,3/24/2022,6:47 PM,metal,non-recyclable,#a50ad1,medium
+221,82.17,compost,3 Helena Drive,5/20/2022,3:47 PM,glass,non-recyclable,#f681c0,large
+222,6.64,compost,51596 Schlimgen Trail,9/1/2022,3:43 PM,paper,food waste,#e17ada,small
+223,77.5,waste,49903 Kensington Pass,12/2/2022,6:59 PM,metal,hazardous waste,#44b76d,large
+224,6.51,recycling,9440 Melvin Plaza,9/12/2022,6:13 PM,paper,food waste,#b45d87,small
+225,57.05,compost,7735 Susan Drive,9/3/2022,12:07 PM,glass,non-recyclable,#b33dfa,small
+226,39.47,recycling,6260 Springview Plaza,8/1/2022,9:40 AM,plastic,hazardous waste,#dba96a,small
+227,93.96,waste,65028 Mayfield Alley,1/1/2022,7:00 PM,metal,food waste,#7ffe82,medium
+228,48.3,waste,47 Riverside Alley,7/17/2022,8:49 AM,paper,hazardous waste,,small
+229,75.85,recycling,7813 Boyd Street,3/28/2022,12:35 AM,glass,hazardous waste,#910d76,medium
+230,1.46,compost,248 Butternut Center,9/23/2022,7:46 PM,plastic,food waste,#31b8c0,medium
+231,48.91,waste,9 Red Cloud Crossing,10/20/2022,9:53 PM,plastic,food waste,#cf38f0,large
+232,47.3,compost,18 Karstens Circle,9/25/2022,1:05 AM,plastic,non-recyclable,,small
+233,25.68,compost,762 Eagle Crest Circle,12/18/2022,12:18 AM,metal,non-recyclable,#0d3261,medium
+234,92.78,compost,3 Schurz Court,2/26/2022,8:55 PM,metal,non-recyclable,#c960d1,large
+235,12.94,recycling,0 Barby Street,10/21/2022,6:02 AM,plastic,hazardous waste,#7a72c3,small
+236,94.1,recycling,68 Schiller Lane,11/7/2022,12:28 PM,glass,hazardous waste,#7ca9d8,large
+237,60.76,waste,8 Express Park,1/7/2022,5:07 AM,glass,non-recyclable,#1f4f3e,medium
+238,40.89,compost,492 Bluestem Crossing,5/5/2022,10:54 PM,plastic,non-recyclable,#f703c4,large
+239,76.47,waste,5 Cherokee Junction,4/27/2022,7:19 AM,plastic,food waste,#0eb454,medium
+240,12.99,waste,4375 Annamark Street,10/18/2022,11:29 AM,paper,non-recyclable,#528108,small
+241,79.06,waste,92500 Summer Ridge Circle,3/11/2022,1:49 AM,plastic,hazardous waste,#4c0436,medium
+242,1.55,compost,,1/11/2022,11:16 AM,metal,non-recyclable,#9f0d46,large
+243,91.27,compost,6263 Crescent Oaks Avenue,6/21/2022,10:42 PM,plastic,food waste,#0aec94,large
+244,10.92,compost,3 Dakota Hill,4/23/2022,10:20 AM,metal,food waste,#d3b5dc,medium
+245,40.24,compost,33 Merry Park,7/22/2022,1:19 PM,metal,food waste,#7ed310,medium
+246,70.45,waste,787 Ohio Hill,9/18/2022,8:25 AM,glass,food waste,#fda1bd,small
+247,30.94,waste,2230 Pearson Court,4/12/2022,1:51 PM,metal,non-recyclable,#5f0c14,large
+248,84.73,waste,563 Mallard Street,3/6/2022,10:31 PM,paper,food waste,#6e2b87,large
+249,86.2,waste,26382 Atwood Junction,4/30/2022,6:45 PM,plastic,food waste,#87da2a,large
+250,58.84,recycling,6335 Barby Drive,4/27/2022,5:01 PM,plastic,non-recyclable,#6e2a55,large
+251,30.79,waste,4 Kim Drive,11/9/2022,5:33 AM,paper,non-recyclable,#20f6ba,large
+252,74.3,recycling,,12/7/2022,3:19 AM,plastic,food waste,#fdf07f,small
+253,85.08,compost,,12/13/2022,2:13 PM,metal,food waste,#1b47a1,small
+254,8.27,compost,92 Raven Place,12/5/2022,12:34 AM,paper,non-recyclable,#159c4c,large
+255,80.43,compost,01370 Dryden Alley,11/22/2022,7:31 PM,glass,hazardous waste,#2a9fd1,large
+256,12.33,compost,6532 Duke Alley,7/15/2022,9:14 AM,glass,food waste,#06c71e,small
+257,59.35,waste,27 Knutson Alley,4/7/2022,8:04 PM,paper,food waste,#546e54,large
+258,71.06,compost,08 Oak Valley Avenue,11/23/2022,1:55 PM,plastic,non-recyclable,#a59b6d,medium
+259,20.32,recycling,9 Schurz Point,5/22/2022,4:53 PM,paper,hazardous waste,#40ad97,medium
+260,58.82,compost,91799 Gina Plaza,8/23/2022,6:17 PM,metal,non-recyclable,#51a5c5,medium
+261,10.92,waste,809 East Junction,8/6/2022,9:39 AM,paper,non-recyclable,#2bb9d3,small
+262,64.63,recycling,68939 Crest Line Place,5/31/2022,4:48 PM,paper,food waste,#3658ab,medium
+263,21.68,recycling,75978 Steensland Plaza,3/25/2022,6:56 AM,paper,hazardous waste,#edabb3,large
+264,79.79,compost,47250 Menomonie Terrace,3/10/2022,10:28 PM,plastic,non-recyclable,#28d434,large
+265,53.17,waste,5316 Blue Bill Park Parkway,11/15/2022,11:19 AM,paper,food waste,#a161cb,medium
+266,90.81,compost,,7/23/2022,6:37 AM,paper,food waste,#633f82,small
+267,3.42,compost,7178 Graceland Trail,10/31/2022,6:19 PM,paper,non-recyclable,#db0b47,medium
+268,54.16,waste,8 Southridge Trail,6/9/2022,2:03 AM,plastic,food waste,#5bc7e5,medium
+269,20.09,waste,119 Bunting Center,11/24/2022,10:59 AM,glass,hazardous waste,#ce7895,large
+270,24.53,compost,50 Helena Road,1/11/2022,5:20 AM,metal,food waste,#2a60d5,medium
+271,41.06,waste,6028 Bluejay Terrace,2/3/2022,6:51 PM,paper,food waste,#a8ef41,large
+272,0.73,waste,343 Manitowish Alley,5/4/2022,6:15 AM,metal,food waste,,large
+273,70.43,waste,616 Dakota Circle,11/17/2022,7:19 PM,glass,non-recyclable,#a51f97,medium
+274,25.11,waste,3362 Hayes Road,11/30/2022,12:48 AM,paper,food waste,#2b5de4,large
+275,26.46,waste,7 Scoville Trail,3/10/2022,10:18 PM,plastic,food waste,#0b829f,medium
+276,58.93,recycling,9 Sundown Center,7/13/2022,11:38 AM,paper,hazardous waste,#d8cbb9,medium
+277,12.28,recycling,19 Stone Corner Place,8/5/2022,2:16 AM,plastic,food waste,#660b94,large
+278,18.91,recycling,7 Grover Alley,12/22/2022,2:01 PM,paper,food waste,#930f9b,large
+279,63.73,waste,7782 Dawn Way,7/25/2022,11:41 AM,glass,hazardous waste,#405801,small
+280,9.64,waste,4 Ludington Circle,1/6/2022,9:30 AM,paper,hazardous waste,#299332,large
+281,64.57,recycling,0073 Eggendart Circle,11/1/2022,9:59 PM,paper,non-recyclable,#dc20cc,medium
+282,61.87,recycling,3962 Stang Terrace,2/18/2022,2:13 AM,glass,food waste,#8b5424,medium
+283,51.88,recycling,9 Cherokee Point,2/12/2022,7:26 PM,metal,hazardous waste,#a7ec9d,small
+284,79.94,waste,9661 Coolidge Street,1/28/2022,1:10 AM,glass,hazardous waste,#b771c3,small
+285,73.51,recycling,18 Fairview Circle,1/22/2022,6:56 PM,glass,food waste,#1adf8b,small
+286,21.22,compost,950 Vera Way,10/10/2022,8:12 PM,plastic,food waste,#c66db2,large
+287,81.67,waste,5 Sachs Court,1/29/2022,2:44 PM,glass,non-recyclable,#667e83,small
+288,37.68,compost,49 Badeau Crossing,11/28/2022,9:26 AM,plastic,food waste,#7c5f8b,medium
+289,67.28,compost,13876 Rowland Parkway,5/23/2022,2:05 AM,glass,food waste,#81bb2a,small
+290,1.34,recycling,93 Monument Point,9/14/2022,1:42 PM,metal,non-recyclable,#9ba1d9,large
+291,32.64,recycling,7 Gale Terrace,8/14/2022,8:37 PM,plastic,hazardous waste,#ba5664,medium
+292,46.55,waste,4 Towne Road,1/7/2022,10:16 PM,glass,non-recyclable,#fe4a0e,small
+293,27.42,waste,86 Chive Center,6/7/2022,8:39 PM,plastic,hazardous waste,#b4d514,small
+294,33.88,recycling,349 Bunting Circle,3/29/2022,8:50 AM,plastic,hazardous waste,#20995b,medium
+295,18.16,recycling,785 Maple Wood Lane,2/5/2022,9:14 AM,plastic,hazardous waste,#ed1bed,large
+296,60.27,waste,,9/19/2022,6:09 AM,glass,food waste,#f68865,small
+297,76.08,recycling,33115 Moose Center,9/18/2022,3:32 AM,metal,food waste,#d5e3a6,large
+298,32.31,recycling,,6/27/2022,1:57 PM,metal,non-recyclable,#c7c87f,large
+299,97.92,waste,8170 Sheridan Avenue,3/1/2022,12:16 PM,glass,food waste,#075c2f,large
+300,67.49,waste,253 Linden Junction,11/24/2022,4:19 PM,paper,non-recyclable,#a213b4,small
+301,77.02,compost,42 Milwaukee Crossing,2/14/2022,3:00 PM,paper,food waste,#ee9a28,large
+302,46.41,recycling,,5/29/2022,8:31 PM,glass,food waste,#6062f9,medium
+303,10.83,waste,41 Green Ridge Junction,2/16/2022,4:49 AM,glass,hazardous waste,#d8d2ed,small
+304,87.86,waste,63964 Melby Park,12/8/2022,10:15 PM,metal,food waste,#6711a7,medium
+305,22.76,waste,1922 Pleasure Avenue,10/1/2022,2:20 PM,metal,non-recyclable,#ba9a13,medium
+306,69.86,recycling,2867 Lighthouse Bay Point,1/10/2022,4:51 AM,glass,hazardous waste,#87b06e,small
+307,60.35,recycling,2481 Truax Parkway,5/7/2022,11:29 AM,metal,non-recyclable,#016a01,large
+308,23.89,recycling,777 Hanson Alley,8/28/2022,5:53 PM,paper,non-recyclable,#e128de,large
+309,74.54,compost,86 Toban Lane,9/7/2022,1:55 PM,paper,food waste,#d0dd94,medium
+310,95.66,waste,3 Barnett Avenue,9/16/2022,5:11 AM,metal,hazardous waste,#6f746d,small
+311,54.72,compost,35 Melby Street,10/19/2022,3:03 AM,plastic,non-recyclable,#6e430d,medium
+312,1.29,recycling,1 Pearson Place,12/25/2022,8:39 AM,paper,hazardous waste,#53c9f3,medium
+313,97.13,recycling,889 Montana Road,8/11/2022,8:44 AM,plastic,hazardous waste,#c63bf3,small
+314,53.29,compost,57 Leroy Park,7/12/2022,6:32 AM,glass,hazardous waste,#04cf39,large
+315,56.14,waste,0 Westridge Plaza,3/8/2022,4:47 AM,glass,food waste,#cb83db,small
+316,51.08,waste,04 Clove Way,3/21/2022,6:32 AM,plastic,hazardous waste,#73c96a,large
+317,64.73,waste,2 Forest Pass,5/21/2022,2:16 PM,glass,hazardous waste,#c02a95,medium
+318,28.25,waste,393 Stone Corner Point,7/26/2022,1:21 PM,metal,hazardous waste,#9b09e1,medium
+319,62.53,compost,561 Mesta Plaza,9/6/2022,10:15 AM,glass,hazardous waste,#259e8c,medium
+320,57.89,compost,5 Helena Terrace,12/24/2022,1:10 PM,plastic,non-recyclable,#f0301b,small
+321,36.6,waste,591 Grover Lane,1/20/2022,3:04 PM,metal,hazardous waste,#44e96c,medium
+322,0.18,waste,58159 Judy Plaza,11/22/2022,6:34 PM,paper,non-recyclable,#7b8c04,medium
+323,57.65,waste,15293 Golf View Terrace,9/4/2022,4:08 AM,plastic,food waste,#3be98a,large
+324,71.18,waste,96 Fieldstone Park,1/22/2022,3:47 PM,paper,hazardous waste,,small
+325,52.01,compost,13 Fisk Park,7/14/2022,7:34 PM,plastic,non-recyclable,#8bc3fc,medium
+326,34.57,recycling,14 Bobwhite Plaza,12/11/2022,12:14 AM,plastic,hazardous waste,#1729eb,small
+,14.81,compost,3960 Delaware Crossing,7/30/2022,6:48 AM,paper,food waste,#8a9d62,small
+328,34.3,waste,00 Lien Parkway,1/21/2022,10:27 AM,glass,food waste,,small
+329,12.55,waste,0 Loeprich Junction,4/16/2022,1:15 PM,metal,non-recyclable,#63a832,small
+330,79.26,recycling,188 Bluestem Hill,11/7/2022,3:49 AM,glass,non-recyclable,#75b4bf,large
+331,54.81,recycling,,11/4/2022,7:22 AM,metal,hazardous waste,#cc2886,medium
+332,19.3,waste,828 Paget Place,4/22/2022,4:39 AM,paper,food waste,#15ecb1,medium
+333,66.25,compost,57322 Westerfield Hill,2/4/2022,8:22 AM,paper,hazardous waste,#795df2,large
+334,9.6,waste,8887 Northview Lane,1/18/2022,5:44 PM,paper,hazardous waste,#a39026,small
+335,42.99,compost,646 Fordem Park,3/15/2022,7:55 PM,glass,hazardous waste,#dd7793,large
+336,80.51,waste,99542 Merry Alley,8/31/2022,12:03 AM,metal,food waste,#70f795,medium
+337,2.08,compost,90163 Lakewood Gardens Place,6/24/2022,10:13 AM,plastic,hazardous waste,#c545a7,medium
+338,44.83,recycling,97594 Fairview Center,10/7/2022,9:53 AM,glass,hazardous waste,#d42df5,small
+339,32.25,waste,784 Grayhawk Center,12/28/2022,5:11 PM,plastic,food waste,#828678,large
+340,2.78,waste,1630 Rusk Point,7/12/2022,7:13 AM,paper,food waste,#74db1b,large
+341,7.92,recycling,99 Northfield Terrace,11/6/2022,10:56 PM,paper,non-recyclable,#64dc62,medium
+,81.34,waste,04 Ronald Regan Park,6/12/2022,5:27 AM,metal,food waste,#461020,large
+343,9.91,waste,32 Shoshone Way,3/27/2022,4:37 PM,glass,non-recyclable,#7ecf4c,small
+344,0.49,recycling,45214 Dixon Street,4/10/2022,2:11 AM,metal,hazardous waste,#82093f,medium
+345,55.03,waste,5 Ronald Regan Crossing,4/27/2022,7:32 AM,glass,food waste,#89bd9c,small
+346,20.45,waste,29935 Packers Plaza,9/9/2022,6:44 AM,paper,food waste,#0611d7,small
+347,2.8,waste,37931 Blue Bill Park Place,5/15/2022,12:39 PM,metal,hazardous waste,#3b64e0,small
+348,6.03,waste,28 Judy Parkway,6/20/2022,3:48 AM,metal,hazardous waste,#658ae8,medium
+349,58.87,compost,03495 Amoth Parkway,10/1/2022,2:04 AM,paper,hazardous waste,#3d9c98,large
+350,69.22,recycling,71409 Norway Maple Crossing,7/19/2022,11:00 PM,metal,hazardous waste,#ea4fa3,large
+351,95.52,waste,2 Beilfuss Alley,1/2/2022,12:08 AM,glass,non-recyclable,#6f6c79,small
+352,10.03,recycling,321 Ridgeway Trail,9/18/2022,5:16 AM,plastic,non-recyclable,#c4b7ca,medium
+353,44.23,waste,88648 Oneill Point,11/2/2022,10:42 AM,plastic,food waste,#124c3a,large
+354,55.21,recycling,830 Hauk Point,1/16/2022,3:39 AM,glass,hazardous waste,#cc49a4,small
+355,74.23,waste,1 Starling Parkway,12/1/2022,11:14 AM,plastic,hazardous waste,#1f2fd9,large
+356,3.0,waste,7372 Red Cloud Park,4/24/2022,3:31 PM,glass,hazardous waste,#b8f257,medium
+357,41.59,recycling,3356 Atwood Center,5/15/2022,9:02 AM,paper,food waste,#0ca1dc,medium
+358,29.83,waste,9570 6th Trail,6/28/2022,3:42 AM,glass,non-recyclable,,medium
+,13.36,waste,4 Farwell Way,11/14/2022,10:49 PM,glass,non-recyclable,#6f7f37,medium
+360,88.88,compost,436 Park Meadow Circle,3/22/2022,11:40 PM,metal,food waste,#0574eb,large
+361,74.13,compost,63914 Hollow Ridge Street,11/16/2022,6:34 PM,plastic,non-recyclable,#f8193b,large
+362,75.27,waste,6 Trailsway Junction,5/22/2022,11:52 PM,plastic,non-recyclable,,small
+363,35.07,compost,1 Morningstar Parkway,4/17/2022,4:17 AM,glass,non-recyclable,#c4ace3,medium
+364,15.14,waste,11 Sommers Plaza,4/27/2022,10:43 PM,glass,hazardous waste,#022656,medium
+365,65.71,waste,,12/17/2022,8:29 PM,glass,food waste,#41d070,large
+366,59.82,recycling,6747 Grim Parkway,12/11/2022,6:57 PM,metal,non-recyclable,#c9788a,medium
+367,93.91,compost,0458 Cambridge Circle,11/21/2022,1:10 PM,paper,food waste,#245f4b,large
+368,15.81,recycling,,4/14/2022,12:34 AM,plastic,hazardous waste,#6a8a14,small
+369,4.03,recycling,9073 Menomonie Lane,3/1/2022,10:17 AM,plastic,non-recyclable,,large
+370,31.31,recycling,59 Monterey Trail,12/8/2022,6:57 AM,metal,food waste,#62752f,large
+371,5.32,recycling,8360 Clarendon Point,8/29/2022,9:16 PM,paper,non-recyclable,#1fc031,small
+372,32.96,waste,2323 Northwestern Hill,8/25/2022,9:48 AM,paper,food waste,#0a7b03,small
+373,39.37,waste,322 Waubesa Point,8/11/2022,6:19 AM,metal,food waste,#dc44cd,small
+374,15.73,waste,426 Bayside Way,2/3/2022,11:50 PM,paper,food waste,#18c864,medium
+375,51.96,compost,256 Almo Court,12/8/2022,7:50 PM,plastic,non-recyclable,#0a720d,small
+376,89.03,compost,10264 Forest Park,12/30/2022,11:11 PM,metal,hazardous waste,#a4ddc3,large
+,56.74,recycling,0 Lakeland Way,5/1/2022,2:19 PM,paper,hazardous waste,,small
+378,48.78,recycling,87 Sugar Plaza,5/24/2022,5:06 PM,plastic,non-recyclable,#e4d142,medium
+379,7.63,compost,2058 Delaware Center,4/5/2022,5:36 PM,plastic,food waste,#39820c,large
+380,32.21,compost,50243 Havey Court,11/10/2022,1:28 AM,glass,food waste,#d900c4,medium
+381,71.87,compost,8 Northport Drive,3/10/2022,11:34 PM,glass,hazardous waste,#1f4b33,large
+382,73.42,recycling,,9/9/2022,1:41 PM,glass,hazardous waste,#f407e0,large
+383,1.03,waste,20798 Express Way,7/11/2022,3:05 AM,metal,food waste,#48a8dd,medium
+,62.41,waste,6 Sauthoff Center,3/1/2022,3:34 AM,metal,hazardous waste,,small
+385,82.29,compost,895 Prairieview Crossing,10/11/2022,11:33 PM,metal,non-recyclable,#f917f4,small
+386,95.63,waste,9546 Old Gate Alley,8/8/2022,1:44 PM,metal,non-recyclable,#911739,small
+,6.28,waste,591 Russell Drive,12/9/2022,6:43 AM,metal,hazardous waste,,large
+388,61.9,recycling,100 Talisman Avenue,5/6/2022,9:13 AM,metal,hazardous waste,#343664,medium
+389,22.24,waste,1497 Schmedeman Alley,4/9/2022,7:44 PM,metal,food waste,#383827,large
+390,49.23,recycling,7653 Lukken Street,12/14/2022,9:05 PM,plastic,food waste,#2bdbb2,large
+391,7.12,waste,6 Summit Hill,5/19/2022,8:10 AM,paper,non-recyclable,#c38b99,medium
+392,47.69,recycling,2831 Twin Pines Way,6/4/2022,11:54 AM,metal,non-recyclable,#62eb7c,medium
+393,68.15,compost,,1/25/2022,7:03 PM,glass,non-recyclable,#4a61bd,medium
+394,6.8,waste,71 Thackeray Avenue,8/13/2022,12:53 AM,glass,hazardous waste,#d11998,medium
+395,43.0,compost,3568 Loomis Plaza,7/2/2022,7:05 PM,paper,hazardous waste,#fa787e,medium
+396,23.35,waste,87701 Susan Junction,6/11/2022,7:24 PM,glass,hazardous waste,#1e8a07,large
+397,67.29,compost,4259 Donald Road,12/13/2022,5:08 AM,paper,non-recyclable,#3e4a10,small
+398,73.57,recycling,96 Maple Parkway,2/22/2022,7:01 PM,plastic,hazardous waste,#07617f,medium
+399,13.45,compost,3 Hoard Lane,7/5/2022,11:20 PM,paper,non-recyclable,#e96567,large
+400,94.24,compost,7 Blaine Circle,3/3/2022,5:39 AM,metal,food waste,#3f9a9e,medium
+401,83.74,recycling,1 Weeping Birch Center,7/8/2022,6:12 AM,metal,food waste,#5e911d,small
+402,36.0,compost,988 Weeping Birch Plaza,8/4/2022,12:34 PM,glass,hazardous waste,,small
+403,36.51,compost,685 Cottonwood Lane,5/22/2022,2:07 AM,glass,food waste,#0b8968,large
+404,53.18,recycling,55 Bowman Avenue,6/18/2022,1:58 AM,glass,hazardous waste,#56b806,large
+405,93.84,waste,0 Schurz Crossing,3/22/2022,11:46 AM,paper,non-recyclable,#86fc16,medium
+406,70.73,recycling,56605 Corscot Avenue,6/11/2022,11:07 AM,paper,hazardous waste,#3cbe7d,large
+407,94.66,compost,7846 Clemons Place,9/30/2022,9:51 AM,glass,food waste,#7d85c8,large
+408,60.07,recycling,29871 Tony Terrace,2/19/2022,2:16 PM,metal,food waste,#a99f93,large
+409,47.39,waste,646 Sutteridge Avenue,10/2/2022,8:42 AM,metal,food waste,#8d6e32,small
+410,24.37,waste,7 Gale Terrace,1/25/2022,8:26 AM,metal,hazardous waste,#bce36f,medium
+411,68.76,compost,00 Hansons Alley,8/9/2022,12:19 PM,plastic,non-recyclable,#9ea53c,large
+412,83.08,waste,6480 Lillian Avenue,1/8/2022,3:55 AM,plastic,non-recyclable,#884ec2,medium
+413,65.4,compost,82 Ridgeview Parkway,8/24/2022,7:27 PM,paper,food waste,#a356be,large
+414,73.11,compost,7 Drewry Point,9/24/2022,7:48 PM,glass,hazardous waste,#af9f7d,medium
+,51.8,compost,1 Menomonie Court,4/8/2022,4:53 AM,glass,hazardous waste,#14d8d8,medium
+416,36.04,recycling,97730 Springview Drive,7/11/2022,1:35 PM,metal,food waste,#67ac9a,small
+417,39.29,recycling,204 8th Crossing,2/15/2022,4:50 AM,glass,hazardous waste,#5ca6b5,large
+418,71.55,compost,7 Everett Parkway,8/9/2022,4:40 AM,paper,non-recyclable,#d82f58,small
+419,44.33,waste,137 Kingsford Hill,11/18/2022,3:51 PM,paper,non-recyclable,#b29da5,small
+420,1.43,recycling,21 Bartelt Circle,8/11/2022,7:13 PM,metal,non-recyclable,#d12005,small
+421,90.66,compost,09 Montana Street,3/18/2022,2:10 PM,plastic,non-recyclable,#64f39c,large
+422,77.9,recycling,21 Thierer Park,10/12/2022,12:56 PM,glass,hazardous waste,#be53a5,small
+423,29.2,recycling,6 Quincy Pass,10/3/2022,2:56 PM,paper,food waste,#29232f,large
+424,81.45,compost,006 Tennyson Junction,9/9/2022,2:26 PM,paper,hazardous waste,#23bedf,small
+425,25.4,recycling,02195 Boyd Avenue,9/22/2022,8:41 AM,plastic,hazardous waste,#61825b,small
+426,80.66,compost,904 Maple Lane,11/6/2022,6:06 AM,glass,hazardous waste,#76e9aa,small
+427,40.74,recycling,50830 Kingsford Trail,8/3/2022,6:58 AM,paper,food waste,#24e9fc,medium
+428,30.69,compost,15353 School Alley,10/17/2022,8:56 PM,glass,food waste,#2b40a4,large
+429,98.73,waste,938 Boyd Pass,6/3/2022,10:40 AM,plastic,non-recyclable,#bcd04f,large
+430,15.74,waste,33 Rieder Pass,4/7/2022,2:21 PM,glass,food waste,#667e40,medium
+,65.79,compost,57366 La Follette Road,7/27/2022,1:24 AM,glass,hazardous waste,#f2a140,small
+432,38.12,compost,58994 Ramsey Circle,2/8/2022,3:08 PM,paper,non-recyclable,#1b307e,large
+433,51.15,compost,457 Doe Crossing Way,10/13/2022,3:06 AM,paper,non-recyclable,#22b861,large
+434,44.91,waste,,6/21/2022,3:35 AM,plastic,hazardous waste,#eb7750,medium
+435,36.58,waste,3286 Lakewood Gardens Road,7/2/2022,8:11 AM,plastic,food waste,#5777ef,large
+,11.81,recycling,8 Myrtle Avenue,4/10/2022,12:40 PM,glass,non-recyclable,#3648d3,small
+437,62.79,recycling,5408 Crescent Oaks Point,1/14/2022,4:47 AM,paper,hazardous waste,,large
+438,21.24,waste,0 Upham Terrace,4/28/2022,12:16 AM,paper,food waste,#707d0c,medium
+439,66.06,compost,36143 Mccormick Way,6/25/2022,10:22 PM,paper,food waste,#db1fb7,large
+440,95.76,recycling,608 Upham Place,9/15/2022,5:52 PM,paper,food waste,#27d8fb,large
+441,12.3,recycling,,3/25/2022,9:54 PM,metal,hazardous waste,#579444,medium
+442,47.91,waste,810 Texas Crossing,3/22/2022,2:12 AM,plastic,non-recyclable,#c57091,medium
+443,8.55,recycling,6 Packers Trail,6/5/2022,6:39 PM,paper,non-recyclable,#7c94ce,large
+444,3.84,recycling,1 Petterle Center,6/15/2022,9:14 PM,plastic,non-recyclable,,large
+,51.25,compost,7 Alpine Lane,3/23/2022,3:48 AM,plastic,non-recyclable,#e42b19,medium
+446,55.95,recycling,954 Tennyson Pass,1/7/2022,11:35 PM,glass,non-recyclable,#564684,small
+447,35.8,waste,5 Carioca Street,9/28/2022,11:05 PM,plastic,food waste,#244e3d,medium
+448,65.77,compost,3 Hovde Plaza,1/29/2022,2:09 AM,glass,non-recyclable,#e4328d,large
+449,47.95,compost,771 Norway Maple Way,6/19/2022,9:24 AM,plastic,non-recyclable,#1db8dd,large
+450,27.31,compost,392 Farwell Park,3/20/2022,3:10 PM,plastic,non-recyclable,#8fb3ef,medium
+451,22.34,waste,8002 Nobel Parkway,7/27/2022,4:07 PM,plastic,non-recyclable,#20b48e,small
+452,70.73,recycling,6 Hermina Parkway,2/26/2022,5:00 AM,glass,hazardous waste,#a8b54b,large
+453,92.45,compost,06 Pawling Center,10/10/2022,9:42 AM,glass,food waste,#5fb29c,medium
+454,18.18,recycling,,8/12/2022,12:43 PM,plastic,hazardous waste,#4f9829,small
+,46.09,recycling,8 Amoth Park,1/15/2022,8:29 AM,glass,hazardous waste,#007776,small
+456,14.9,waste,73 Russell Circle,1/28/2022,8:56 PM,plastic,food waste,#0117f6,medium
+,13.89,waste,2663 Russell Pass,7/29/2022,3:32 AM,glass,non-recyclable,#f59b65,medium
+458,48.12,waste,11248 Reinke Terrace,2/10/2022,11:18 PM,paper,non-recyclable,#bbcb12,medium
+459,46.69,waste,80084 Gale Junction,5/27/2022,11:37 AM,paper,hazardous waste,#acef39,medium
+460,91.78,waste,7 Ridgeway Alley,2/11/2022,5:25 AM,metal,non-recyclable,#3ec7ff,small
+461,34.94,waste,592 Aberg Street,7/25/2022,3:32 PM,glass,food waste,#7bd30b,small
+462,68.92,recycling,29 Orin Drive,6/25/2022,2:08 PM,glass,hazardous waste,#593005,medium
+463,68.87,compost,97298 Sherman Point,4/22/2022,12:48 AM,metal,food waste,#a9947a,medium
+464,80.05,waste,96 Atwood Way,7/11/2022,12:17 PM,paper,hazardous waste,#ba154d,small
+,22.99,compost,7 Golf Point,9/6/2022,5:58 PM,metal,food waste,#f935e1,large
+466,21.71,recycling,30098 Reindahl Park,1/7/2022,9:13 PM,glass,hazardous waste,#f1841e,medium
+467,53.91,compost,,7/14/2022,3:21 AM,metal,hazardous waste,#1e9c0f,large
+468,6.35,waste,08 Atwood Park,5/22/2022,12:27 AM,glass,hazardous waste,#1255bd,small
+469,4.12,compost,132 Sycamore Circle,7/3/2022,4:25 AM,metal,hazardous waste,#2037da,medium
+470,46.25,recycling,7 Scott Alley,3/15/2022,1:01 AM,glass,food waste,#6ba5aa,medium
+471,68.04,compost,95 Pepper Wood Way,8/15/2022,2:49 AM,plastic,hazardous waste,#fdbba4,large
+472,96.2,compost,09 Annamark Hill,1/28/2022,7:52 AM,glass,non-recyclable,#8e6430,large
+473,73.27,waste,4 Maple Pass,9/21/2022,12:18 PM,paper,hazardous waste,#9cd03a,large
+474,34.94,compost,925 Sunnyside Avenue,2/17/2022,5:20 PM,glass,hazardous waste,#589b95,medium
+475,10.65,recycling,917 Monterey Drive,5/28/2022,8:02 PM,glass,non-recyclable,#d3d4bb,small
+476,8.1,recycling,04 Killdeer Road,10/20/2022,8:12 AM,metal,non-recyclable,#5b58af,large
+477,71.55,compost,4 Eagan Pass,5/14/2022,8:22 PM,plastic,non-recyclable,#5d01bc,small
+478,61.75,compost,05 Hooker Place,4/25/2022,2:59 PM,plastic,non-recyclable,#46ac2c,large
+479,82.18,recycling,7 Butterfield Street,11/6/2022,12:26 AM,glass,non-recyclable,#4185e3,medium
+480,54.71,compost,873 Southridge Center,4/2/2022,3:06 PM,metal,non-recyclable,#ac46c9,large
+481,75.13,recycling,24 Anthes Crossing,3/18/2022,5:58 PM,plastic,non-recyclable,#19ba9d,large
+482,63.21,compost,2 Lukken Park,5/21/2022,4:40 PM,glass,hazardous waste,,medium
+483,20.47,waste,5218 Birchwood Crossing,10/1/2022,4:05 AM,metal,non-recyclable,#59e9ee,medium
+484,64.54,recycling,60633 Schmedeman Circle,10/13/2022,8:47 AM,plastic,hazardous waste,#1bd410,large
+485,65.37,recycling,0 Oak Center,8/10/2022,9:29 AM,glass,hazardous waste,#3c41d7,medium
+486,75.61,compost,8 Stang Circle,8/9/2022,1:34 AM,paper,non-recyclable,#46c67e,large
+487,34.24,recycling,7 Merry Trail,4/20/2022,2:16 PM,glass,hazardous waste,#7c76e2,small
+488,13.79,recycling,48 Golf View Plaza,4/25/2022,12:25 PM,metal,food waste,#3abadc,large
+489,12.03,waste,22305 Macpherson Street,11/16/2022,3:35 AM,plastic,hazardous waste,#034a26,large
+490,80.99,waste,7808 Holmberg Circle,12/16/2022,7:13 PM,paper,food waste,#248c02,large
+491,91.65,waste,904 Golden Leaf Road,2/20/2022,6:08 PM,paper,hazardous waste,#592b35,small
+492,66.23,recycling,,5/5/2022,1:58 PM,plastic,food waste,#6c4e6f,large
+493,9.03,waste,1281 West Plaza,12/3/2022,6:24 PM,plastic,food waste,#dee74e,large
+494,25.01,compost,7 Judy Pass,12/29/2022,8:38 AM,glass,non-recyclable,#c436fa,medium
+495,95.13,compost,970 Dennis Place,5/24/2022,10:51 PM,metal,non-recyclable,#d5c522,large
+496,94.82,waste,0116 Bobwhite Center,7/16/2022,3:38 PM,metal,hazardous waste,#24529d,large
+497,33.95,recycling,263 Darwin Street,1/26/2022,8:55 PM,plastic,food waste,#aa15bd,medium
+498,74.72,compost,83314 Thierer Terrace,3/18/2022,9:53 PM,paper,hazardous waste,#1e4c41,medium
+499,99.19,recycling,1 Mitchell Park,12/25/2022,1:31 PM,metal,food waste,#d4a9db,small
+500,71.71,compost,32 Thompson Junction,1/21/2022,11:10 AM,metal,hazardous waste,#e78db8,small
+501,26.96,waste,8 Atwood Park,7/23/2022,7:26 PM,glass,hazardous waste,#f9103e,large
+502,62.17,recycling,26 Mifflin Hill,4/22/2022,7:36 AM,plastic,hazardous waste,#1ad8d3,small
+503,45.77,waste,82 Spaight Road,7/9/2022,9:25 PM,glass,hazardous waste,#195a01,small
+504,71.73,recycling,0 Armistice Crossing,1/1/2022,8:52 PM,paper,non-recyclable,#81167c,medium
+505,63.4,waste,4704 Harper Circle,2/8/2022,4:51 PM,paper,hazardous waste,#89d932,small
+506,52.19,compost,24781 Helena Pass,7/14/2022,5:08 PM,paper,food waste,#fcf951,large
+507,31.42,recycling,3477 Dexter Center,3/14/2022,12:45 AM,paper,hazardous waste,#b0e6b7,medium
+,81.72,compost,61636 Corscot Road,7/19/2022,2:00 PM,glass,non-recyclable,#6945bb,small
+509,69.41,waste,195 Haas Crossing,12/14/2022,3:23 PM,plastic,non-recyclable,#269f52,medium
+510,90.29,waste,2 Riverside Road,11/18/2022,4:26 PM,metal,non-recyclable,#ed4995,large
+511,44.51,recycling,2729 Sheridan Terrace,2/2/2022,6:24 AM,glass,hazardous waste,#9dfec9,large
+512,15.44,waste,226 Lake View Pass,3/4/2022,2:49 AM,metal,hazardous waste,#934d54,large
+513,7.83,compost,,2/19/2022,8:29 PM,glass,food waste,#5e4b3f,large
+514,61.62,recycling,1408 Hollow Ridge Center,10/9/2022,7:57 AM,plastic,non-recyclable,,small
+515,76.07,recycling,76651 Boyd Court,12/29/2022,3:34 AM,paper,non-recyclable,#4192e4,large
+516,90.34,recycling,14 Ruskin Alley,3/25/2022,2:44 AM,metal,non-recyclable,#e32b13,small
+517,33.01,waste,25 Petterle Place,9/23/2022,1:13 AM,glass,food waste,#cae92f,small
+,42.18,recycling,33 Forest Dale Court,10/31/2022,8:32 AM,plastic,hazardous waste,#292f22,large
+519,41.29,waste,9954 Laurel Terrace,9/5/2022,10:20 PM,metal,food waste,#4fe17e,small
+520,26.77,compost,09893 5th Trail,6/10/2022,3:06 AM,paper,hazardous waste,#c11fcf,large
+521,22.49,recycling,5099 Ronald Regan Junction,1/23/2022,2:51 PM,glass,non-recyclable,#0551ee,medium
+522,61.95,compost,84 Sachs Terrace,7/18/2022,2:36 PM,plastic,food waste,#b015f4,small
+523,64.61,waste,514 Hagan Point,8/15/2022,10:31 PM,glass,food waste,#118861,large
+524,54.07,waste,69 Tomscot Plaza,6/15/2022,4:35 PM,plastic,hazardous waste,#9974ba,medium
+525,28.11,compost,61716 Oneill Court,8/29/2022,1:49 PM,paper,non-recyclable,#7824af,large
+526,6.95,waste,39003 Havey Lane,6/8/2022,8:16 AM,glass,hazardous waste,#90201d,small
+527,14.76,recycling,6049 Eastlawn Plaza,4/6/2022,8:19 AM,metal,hazardous waste,#08c9dd,large
+528,58.69,compost,1 Morning Court,3/31/2022,12:11 PM,paper,hazardous waste,#51896f,small
+529,48.89,waste,13 Fairview Trail,9/5/2022,8:47 PM,plastic,hazardous waste,#348801,medium
+530,96.7,compost,34 Thompson Terrace,10/19/2022,8:09 PM,metal,non-recyclable,#721c9c,medium
+531,49.07,compost,66 Kinsman Place,9/20/2022,5:43 PM,plastic,hazardous waste,#a35110,large
+532,80.83,compost,63 Hallows Terrace,9/13/2022,6:41 PM,metal,hazardous waste,#d43296,small
+533,14.02,waste,731 American Ash Way,9/12/2022,12:24 PM,metal,food waste,#84756b,large
+534,87.35,recycling,802 Lyons Trail,3/21/2022,5:38 PM,glass,non-recyclable,#63feb3,small
+535,80.66,compost,1 Sycamore Crossing,11/1/2022,9:07 PM,paper,hazardous waste,#b04ef1,medium
+536,43.13,waste,6205 Lawn Center,10/8/2022,10:19 PM,plastic,food waste,#fac311,medium
+537,54.96,recycling,31 Hallows Park,8/2/2022,6:12 AM,metal,food waste,#e7fa9e,medium
+538,47.99,compost,82752 Prairie Rose Plaza,10/5/2022,12:56 PM,plastic,non-recyclable,#025b7d,large
+539,77.59,waste,8 Service Park,11/15/2022,8:08 PM,glass,food waste,#289e98,small
+540,58.33,recycling,8115 Briar Crest Drive,6/28/2022,7:31 PM,glass,food waste,#6bd7f4,large
+541,15.49,waste,908 Pankratz Park,10/20/2022,1:04 AM,metal,food waste,#c25106,medium
+542,20.77,waste,5334 Elka Parkway,5/3/2022,4:54 PM,paper,hazardous waste,#8e014d,medium
+543,25.05,waste,3355 Pond Road,8/18/2022,12:06 AM,paper,hazardous waste,#50b0e7,small
+544,55.87,recycling,07 Hagan Road,9/12/2022,6:52 PM,glass,food waste,#1f713d,large
+545,5.74,compost,13 Eastwood Alley,3/11/2022,6:06 PM,plastic,food waste,#cf0163,medium
+546,33.65,recycling,,12/24/2022,5:14 AM,metal,food waste,#b91d95,medium
+547,52.17,recycling,06415 Scofield Junction,9/27/2022,12:14 PM,glass,non-recyclable,#91b390,small
+548,27.22,compost,801 Center Junction,9/30/2022,11:04 AM,paper,non-recyclable,#b168b2,medium
+549,18.46,recycling,692 Trailsway Alley,6/19/2022,12:31 AM,paper,hazardous waste,#f15293,medium
+550,40.58,compost,3 Norway Maple Terrace,7/5/2022,10:14 AM,paper,hazardous waste,#76c410,small
+551,15.9,compost,38413 Logan Parkway,5/30/2022,8:32 PM,plastic,non-recyclable,,medium
+552,20.98,recycling,59 Tennessee Hill,12/18/2022,11:03 AM,plastic,food waste,#80caa1,medium
+553,15.88,waste,76676 Eggendart Point,8/1/2022,11:57 AM,glass,food waste,#4c7129,small
+554,56.75,waste,38289 Dovetail Crossing,10/17/2022,2:46 AM,paper,hazardous waste,#19097d,medium
+555,9.38,waste,8 Fairfield Circle,10/22/2022,4:07 PM,paper,hazardous waste,,medium
+556,48.54,waste,3 Larry Alley,8/2/2022,5:17 AM,glass,hazardous waste,#a723d5,medium
+557,49.71,waste,06146 Menomonie Place,11/29/2022,8:17 PM,paper,non-recyclable,#8b54b0,medium
+558,18.2,recycling,71 Victoria Drive,12/11/2022,1:12 AM,paper,hazardous waste,#ac5cc2,small
+559,30.9,recycling,63093 Mendota Court,7/19/2022,1:46 PM,metal,non-recyclable,#803014,small
+560,39.97,recycling,97 Merry Pass,9/7/2022,10:09 AM,glass,hazardous waste,#f9e4ad,large
+,16.4,waste,38386 Vahlen Crossing,9/16/2022,12:19 PM,metal,hazardous waste,#7f3993,small
+562,50.35,waste,5 School Crossing,8/30/2022,7:58 AM,paper,non-recyclable,#6bd2db,large
+563,65.11,compost,938 Hollow Ridge Park,9/4/2022,12:59 AM,glass,non-recyclable,#bcebcd,large
+564,28.64,waste,5884 Haas Drive,1/12/2022,2:09 AM,metal,food waste,#0f9d11,medium
+565,24.14,compost,96773 Fordem Pass,8/30/2022,12:32 PM,paper,non-recyclable,#84a99f,medium
+566,80.21,waste,5 Basil Circle,2/25/2022,3:11 PM,metal,hazardous waste,#57361e,medium
+567,85.97,compost,41 Pierstorff Point,9/8/2022,6:49 PM,metal,non-recyclable,#48f85a,small
+568,41.66,recycling,94 Farmco Trail,5/23/2022,5:26 AM,metal,non-recyclable,#dde06a,small
+569,15.45,compost,5 Goodland Pass,9/11/2022,9:04 AM,metal,hazardous waste,#358c6e,small
+570,91.31,waste,534 Norway Maple Parkway,3/23/2022,4:52 PM,metal,hazardous waste,#732ea3,medium
+571,66.87,compost,,11/6/2022,1:05 PM,plastic,hazardous waste,#25aa59,medium
+572,18.22,waste,,10/28/2022,4:15 AM,paper,food waste,#a21195,large
+573,60.43,recycling,82792 Bartelt Lane,7/4/2022,1:53 PM,plastic,hazardous waste,#9bda9e,medium
+574,9.25,compost,548 John Wall Park,2/8/2022,6:59 AM,metal,hazardous waste,#a88b44,small
+575,66.92,waste,53 Lillian Way,9/3/2022,7:22 AM,metal,non-recyclable,#2d3fa6,medium
+576,58.32,waste,9085 Moland Parkway,7/11/2022,1:01 AM,metal,non-recyclable,#4cb645,medium
+577,46.47,recycling,71455 Monument Road,3/18/2022,2:51 PM,paper,food waste,#6d5298,large
+578,85.81,waste,,2/20/2022,6:21 PM,glass,non-recyclable,#9651ae,medium
+579,30.64,recycling,970 Carey Way,5/2/2022,1:13 AM,paper,hazardous waste,#5667b0,small
+580,94.76,waste,2 Kinsman Place,8/28/2022,1:46 PM,plastic,hazardous waste,#d11a90,large
+581,23.82,recycling,085 Pankratz Hill,8/6/2022,2:34 AM,metal,food waste,#f41e1b,large
+582,2.4,recycling,95287 Debs Drive,6/4/2022,7:39 PM,paper,non-recyclable,#2de87f,medium
+583,96.3,recycling,7 Menomonie Street,7/3/2022,10:06 AM,plastic,non-recyclable,#5ee00a,small
+584,32.66,compost,5627 Dryden Way,9/22/2022,1:39 PM,metal,food waste,#8eb387,medium
+585,33.23,compost,401 Pearson Lane,3/1/2022,8:15 AM,glass,food waste,#eff9a2,large
+586,81.04,recycling,18 Logan Junction,2/18/2022,5:56 PM,metal,hazardous waste,#69d3e9,large
+587,55.72,compost,31418 Dottie Plaza,1/16/2022,8:18 PM,plastic,food waste,#88488f,medium
+588,36.64,compost,40412 Manitowish Park,10/1/2022,4:53 AM,paper,hazardous waste,#5afaf5,medium
+589,12.04,recycling,6 Graedel Point,4/1/2022,10:32 PM,paper,hazardous waste,#9d416f,large
+590,50.15,waste,09 Reinke Crossing,9/20/2022,8:16 AM,paper,food waste,#5c4383,medium
+591,71.44,waste,4 Dixon Plaza,8/21/2022,5:42 AM,plastic,food waste,,medium
+592,44.76,compost,5263 Stoughton Park,11/8/2022,5:14 AM,plastic,non-recyclable,#8b3451,small
+593,54.91,waste,8 Thierer Place,11/12/2022,7:15 AM,metal,hazardous waste,#808dce,medium
+594,99.71,recycling,50858 Arrowood Way,3/13/2022,8:42 PM,plastic,hazardous waste,#575005,large
+595,12.99,waste,875 5th Center,12/1/2022,3:37 AM,paper,hazardous waste,#4f6fac,large
+596,86.6,recycling,9 Raven Circle,8/10/2022,9:34 AM,plastic,hazardous waste,#175254,medium
+597,33.64,compost,1 Briar Crest Plaza,7/1/2022,10:09 PM,metal,hazardous waste,#243f71,medium
+598,0.45,compost,721 Melody Center,10/30/2022,9:55 AM,glass,hazardous waste,,large
+599,70.1,recycling,415 American Trail,11/15/2022,12:33 PM,metal,food waste,#a606f8,small
+600,1.04,compost,2902 Manley Hill,1/23/2022,1:15 PM,glass,non-recyclable,#215922,medium
+601,29.09,recycling,0 Shasta Avenue,7/1/2022,8:54 PM,paper,hazardous waste,#38f74c,small
+602,6.95,compost,1 Mallory Parkway,4/6/2022,9:37 PM,glass,hazardous waste,#506d93,small
+603,4.3,recycling,498 Maple Wood Drive,6/24/2022,6:35 PM,paper,non-recyclable,#1d69d0,medium
+604,70.31,waste,36447 Clarendon Center,1/21/2022,6:36 PM,metal,non-recyclable,,large
+605,19.61,compost,77922 Forest Dale Point,7/30/2022,11:20 PM,glass,non-recyclable,#280a7e,large
+606,6.51,recycling,7 Macpherson Alley,5/11/2022,10:49 PM,glass,hazardous waste,#528dbc,large
+607,78.37,waste,1 Holy Cross Place,10/28/2022,4:03 AM,metal,non-recyclable,#bc8e9f,large
+608,91.24,waste,7 Westridge Alley,1/29/2022,7:02 AM,plastic,food waste,#626e66,small
+609,53.67,recycling,5 4th Crossing,6/15/2022,5:31 PM,metal,non-recyclable,#8b6b91,large
+610,62.33,waste,726 Sutherland Alley,12/14/2022,2:28 PM,metal,hazardous waste,#be37e7,medium
+611,65.35,waste,4204 5th Lane,11/15/2022,9:50 AM,paper,hazardous waste,#ada832,medium
+612,13.28,recycling,761 Monterey Trail,3/13/2022,5:36 PM,plastic,food waste,#c3213e,small
+613,92.22,waste,59 South Drive,5/29/2022,10:54 AM,metal,hazardous waste,#1f93ac,medium
+614,13.36,recycling,37475 Alpine Way,7/10/2022,6:59 AM,metal,food waste,#fded1f,small
+615,76.58,compost,3045 4th Trail,9/5/2022,10:58 AM,metal,food waste,#44e157,large
+616,81.35,recycling,7886 Dennis Crossing,12/5/2022,5:33 PM,glass,hazardous waste,#fee652,small
+617,80.96,compost,8 Kim Street,7/2/2022,1:16 AM,paper,hazardous waste,,large
+618,92.22,waste,868 Sachs Alley,9/3/2022,11:30 AM,paper,hazardous waste,#4537b3,medium
+619,1.84,waste,280 Armistice Trail,3/3/2022,7:59 AM,metal,food waste,#c327d2,large
+620,34.41,compost,1 Melrose Crossing,9/30/2022,2:38 PM,metal,non-recyclable,#3cce76,large
+621,57.03,recycling,8686 Gerald Way,7/22/2022,7:32 PM,glass,non-recyclable,#4bd801,small
+622,27.02,waste,61 Birchwood Point,7/5/2022,12:12 AM,paper,non-recyclable,#4f9cf6,medium
+,23.01,waste,899 Vera Street,1/11/2022,1:36 PM,glass,hazardous waste,#db8135,small
+624,30.96,compost,45854 Thierer Court,12/20/2022,3:46 PM,paper,food waste,#480b67,small
+625,12.37,recycling,299 Comanche Way,8/23/2022,12:57 AM,paper,non-recyclable,#1ec87e,medium
+626,3.03,recycling,7 Katie Trail,5/24/2022,8:56 PM,metal,non-recyclable,#b90e40,large
+627,31.68,recycling,845 Scofield Trail,11/22/2022,8:17 PM,metal,non-recyclable,#152ae0,large
+628,12.09,waste,98551 Mcbride Avenue,10/16/2022,12:23 PM,paper,non-recyclable,#264089,small
+629,0.99,waste,5 Carberry Junction,9/4/2022,1:04 AM,metal,non-recyclable,#5c429e,small
+630,2.59,compost,735 Oak Road,1/7/2022,9:57 AM,plastic,non-recyclable,#e806e0,small
+631,17.69,waste,,11/28/2022,6:30 PM,plastic,food waste,#9ccc89,small
+632,18.75,waste,05721 Veith Park,7/1/2022,5:30 PM,glass,non-recyclable,,medium
+633,40.2,waste,09 Di Loreto Way,11/29/2022,10:14 AM,plastic,hazardous waste,#1cb28a,medium
+634,92.97,waste,370 Pierstorff Place,6/12/2022,10:03 PM,plastic,non-recyclable,#135b12,large
+635,95.63,recycling,28194 7th Terrace,8/3/2022,3:46 PM,metal,non-recyclable,#0fbb44,small
+636,92.84,compost,04016 Lyons Road,4/12/2022,4:18 PM,metal,hazardous waste,#410409,large
+637,62.49,recycling,87 Anthes Court,4/15/2022,4:11 PM,paper,food waste,#3cb3cb,medium
+638,48.81,compost,52340 Trailsway Court,11/4/2022,9:44 PM,paper,food waste,#98e316,small
+639,52.87,recycling,191 Meadow Vale Alley,9/17/2022,7:10 AM,paper,non-recyclable,#00cd03,large
+640,73.08,compost,11465 Prentice Junction,1/22/2022,7:46 AM,plastic,hazardous waste,#0ac18e,large
+641,69.35,compost,15 Mifflin Trail,1/28/2022,11:24 PM,plastic,non-recyclable,#792abf,small
+642,70.82,recycling,27933 Sachs Plaza,6/12/2022,11:27 AM,metal,food waste,#d75dc3,large
+643,21.49,waste,5620 Blue Bill Park Street,7/15/2022,12:21 AM,plastic,hazardous waste,#ced7ad,small
+644,21.17,compost,3 Upham Park,9/12/2022,3:12 PM,plastic,non-recyclable,#c6837e,medium
+645,72.2,compost,70 West Point,3/14/2022,3:04 AM,paper,non-recyclable,#204f03,small
+646,59.13,compost,9456 Elmside Court,4/22/2022,10:57 AM,plastic,food waste,#81c96e,small
+647,30.97,waste,5090 Upham Road,3/4/2022,12:19 PM,paper,non-recyclable,#431bb7,large
+648,7.59,recycling,2 Village Pass,7/6/2022,8:14 AM,paper,non-recyclable,#2ce61d,large
+649,12.48,recycling,7 Mccormick Park,9/7/2022,8:15 PM,metal,non-recyclable,#7aad67,large
+650,58.06,compost,,1/15/2022,11:09 AM,plastic,hazardous waste,#84d906,medium
+651,64.29,compost,6827 Longview Alley,3/15/2022,11:24 AM,paper,non-recyclable,,large
+652,55.25,waste,356 Claremont Court,12/23/2022,8:54 PM,paper,hazardous waste,#8fe1a0,medium
+653,26.86,recycling,85157 Jenifer Parkway,12/9/2022,11:32 AM,metal,food waste,#dff5fb,large
+654,54.58,recycling,03 Dapin Lane,6/10/2022,9:00 PM,glass,hazardous waste,#3a97dc,medium
+655,70.35,waste,1 Weeping Birch Court,3/31/2022,1:59 AM,plastic,non-recyclable,#f41f9f,medium
+656,53.82,compost,0 Clyde Gallagher Hill,6/7/2022,4:58 AM,glass,hazardous waste,#fb0aba,small
+657,17.85,recycling,58 Donald Alley,12/12/2022,9:32 PM,plastic,food waste,#479ed8,large
+658,75.3,recycling,3 Muir Pass,6/7/2022,9:25 PM,metal,food waste,#0e55c0,large
+659,81.12,compost,4040 Thompson Road,7/15/2022,11:28 AM,plastic,food waste,#1a3e1b,small
+660,11.69,compost,15 Linden Circle,4/28/2022,1:58 PM,glass,non-recyclable,#4e785c,large
+661,5.78,waste,4795 Steensland Hill,6/21/2022,11:40 AM,paper,food waste,#90b33e,small
+662,63.34,recycling,4 Bunting Lane,9/29/2022,6:21 PM,metal,hazardous waste,#d1284f,small
+663,51.6,compost,86080 Lukken Street,8/8/2022,10:01 PM,glass,non-recyclable,#311eca,small
+664,83.21,compost,31 Pierstorff Junction,3/25/2022,8:14 PM,glass,non-recyclable,#9160cf,small
+665,14.96,waste,86 Vernon Way,5/4/2022,2:19 AM,glass,non-recyclable,#25a9aa,medium
+666,43.48,waste,0042 Delladonna Crossing,8/5/2022,4:58 PM,glass,hazardous waste,#f77873,large
+667,46.26,compost,1755 Bellgrove Alley,9/19/2022,10:08 AM,plastic,non-recyclable,#1f6311,medium
+668,25.06,compost,5 Namekagon Parkway,1/12/2022,2:19 AM,metal,food waste,#45f70f,small
+669,90.48,recycling,,1/5/2022,10:38 AM,plastic,hazardous waste,#472aa1,large
+670,91.1,recycling,9806 Paget Place,1/15/2022,9:17 AM,metal,non-recyclable,#4a4f3a,large
+671,86.09,recycling,94 Talisman Plaza,4/19/2022,1:14 AM,paper,non-recyclable,#7f4391,small
+672,21.47,compost,80 Holy Cross Crossing,12/15/2022,4:55 AM,paper,non-recyclable,#4c49fc,large
+673,93.8,recycling,97484 Pennsylvania Pass,12/5/2022,8:00 PM,metal,food waste,#c63503,medium
+674,9.18,compost,89 Esch Crossing,4/25/2022,1:12 PM,plastic,food waste,#fbe3ac,large
+675,77.68,compost,76 Magdeline Pass,3/5/2022,4:22 PM,paper,food waste,#137b1e,large
+676,54.63,waste,261 Golf Course Pass,8/3/2022,10:58 AM,metal,non-recyclable,#f0a2b9,medium
+677,11.32,waste,205 Mcbride Center,1/10/2022,3:27 PM,paper,hazardous waste,#d2dd24,small
+678,97.22,waste,,8/16/2022,7:34 AM,plastic,food waste,#4c8026,large
+679,25.29,recycling,7 Scofield Pass,4/7/2022,2:45 PM,plastic,food waste,#75248f,small
+680,28.44,compost,051 Mayer Park,9/3/2022,8:10 AM,metal,hazardous waste,#229581,large
+681,47.51,compost,96 Fallview Court,12/27/2022,7:24 AM,paper,food waste,#07008e,medium
+682,28.23,waste,360 Hanson Road,11/7/2022,8:45 AM,glass,food waste,#03d9f8,small
+,73.37,compost,2 Waubesa Pass,2/25/2022,5:38 PM,glass,hazardous waste,#d94652,small
+684,14.86,recycling,8 Anthes Way,7/13/2022,1:49 PM,glass,food waste,#d37988,large
+685,87.81,recycling,182 Northridge Place,11/16/2022,6:50 PM,metal,hazardous waste,#1bed6c,medium
+686,23.09,waste,6667 Hazelcrest Crossing,12/16/2022,8:34 AM,glass,food waste,#710394,large
+687,82.94,recycling,2318 Northwestern Road,10/14/2022,4:14 AM,glass,hazardous waste,#f046f6,small
+688,88.01,compost,9 Rutledge Drive,11/28/2022,7:13 AM,plastic,food waste,#aeb963,small
+689,57.06,waste,5351 Continental Court,12/17/2022,5:58 AM,paper,hazardous waste,#a94356,small
+690,66.45,recycling,751 Drewry Trail,6/4/2022,8:20 AM,metal,food waste,,small
+691,47.09,waste,6 Elka Road,3/12/2022,6:13 AM,metal,hazardous waste,#13fbf7,small
+692,60.47,recycling,4 Steensland Circle,4/16/2022,5:22 AM,metal,non-recyclable,#a763f8,small
+693,61.07,recycling,6019 Straubel Way,6/12/2022,9:31 PM,plastic,food waste,#8f35ae,medium
+694,77.6,waste,1 Starling Alley,9/7/2022,4:52 PM,paper,food waste,#51a58e,medium
+695,2.56,waste,4 Independence Drive,10/12/2022,9:06 PM,metal,hazardous waste,#ca2e36,medium
+696,67.65,compost,91900 Golf View Way,4/4/2022,11:44 PM,plastic,non-recyclable,#acd95b,small
+697,38.16,compost,1541 Linden Circle,8/23/2022,12:25 AM,glass,food waste,#fb9c07,large
+698,94.62,compost,833 Welch Hill,1/17/2022,3:22 PM,plastic,food waste,#6e0903,medium
+699,42.86,recycling,15360 Waxwing Trail,11/18/2022,10:10 AM,paper,food waste,#caea94,small
+700,36.32,recycling,5616 Sunnyside Center,12/30/2022,1:09 AM,metal,food waste,#943174,small
+701,30.72,waste,1719 Mayer Park,4/7/2022,10:16 PM,plastic,non-recyclable,,medium
+702,2.85,waste,0417 Stoughton Drive,7/11/2022,8:07 AM,paper,hazardous waste,#066d4f,large
+703,49.2,waste,,2/4/2022,4:34 PM,glass,hazardous waste,#8ad2f0,large
+704,13.0,waste,183 Becker Circle,5/27/2022,1:21 PM,metal,non-recyclable,#20854d,large
+705,99.56,waste,29 Coolidge Trail,9/12/2022,11:09 AM,glass,non-recyclable,,medium
+706,49.69,compost,6866 Katie Street,8/23/2022,4:10 AM,glass,non-recyclable,#393edc,medium
+707,61.14,recycling,7297 Stoughton Lane,7/5/2022,4:51 AM,paper,food waste,#2ff7b1,small
+708,97.59,waste,66425 Kipling Avenue,10/22/2022,7:54 PM,glass,hazardous waste,#08dd18,small
+709,42.58,compost,693 Fisk Court,7/31/2022,4:10 AM,metal,non-recyclable,#f1ef80,large
+710,75.87,waste,786 Morningstar Pass,4/6/2022,9:24 AM,plastic,hazardous waste,#734c6a,medium
+711,76.76,waste,64947 Sugar Circle,7/9/2022,10:24 AM,plastic,food waste,#4457eb,medium
+712,90.65,recycling,7 Green Trail,1/31/2022,2:34 PM,glass,food waste,,medium
+713,8.31,waste,69031 Arapahoe Parkway,4/24/2022,2:10 PM,glass,hazardous waste,#e15842,small
+714,55.07,waste,5 Forest Avenue,5/28/2022,11:36 AM,metal,non-recyclable,#9e360e,small
+715,84.66,compost,79884 Farmco Place,5/9/2022,4:24 AM,paper,food waste,#e6ce8f,medium
+716,68.93,waste,5 Corben Way,6/17/2022,1:54 AM,paper,food waste,#53ce2b,medium
+717,87.16,waste,288 Ramsey Drive,12/6/2022,4:21 PM,glass,non-recyclable,#c6b5eb,large
+718,81.71,waste,35 Donald Drive,12/17/2022,2:31 AM,paper,non-recyclable,#93e3f5,medium
+719,44.98,waste,8 Drewry Junction,7/31/2022,10:19 PM,glass,food waste,#566827,medium
+720,98.42,compost,7448 Quincy Junction,10/29/2022,7:39 AM,metal,hazardous waste,#ae5dc5,medium
+721,33.67,waste,04741 Bobwhite Terrace,8/25/2022,12:11 AM,metal,food waste,#90fb48,medium
+722,29.02,waste,67721 Norway Maple Drive,7/26/2022,12:33 PM,metal,hazardous waste,#15e259,medium
+723,7.78,waste,28 Hudson Alley,1/3/2022,7:07 AM,plastic,food waste,#4cc6e9,medium
+724,21.07,compost,6145 Green Ridge Street,10/8/2022,4:27 AM,glass,non-recyclable,#2ecaae,large
+725,34.91,compost,5490 South Trail,8/12/2022,5:46 AM,metal,food waste,#1f85e3,medium
+726,27.2,waste,67 Rowland Hill,8/3/2022,7:56 AM,metal,food waste,#c99030,small
+727,23.32,waste,2 Coolidge Park,7/11/2022,1:41 AM,plastic,non-recyclable,#a7c3fc,small
+728,37.2,compost,58 Loftsgordon Way,10/21/2022,2:34 PM,paper,non-recyclable,,large
+729,12.33,waste,580 Dorton Alley,11/8/2022,11:06 PM,plastic,food waste,,medium
+,28.3,recycling,412 Waywood Crossing,5/2/2022,5:49 AM,paper,hazardous waste,#d5605e,large
+731,26.33,compost,1 Manley Way,1/11/2022,10:24 AM,glass,non-recyclable,#438b39,small
+732,48.53,recycling,,9/24/2022,6:03 AM,metal,food waste,#7e7c06,small
+733,74.82,waste,213 Stang Junction,5/9/2022,12:29 PM,metal,non-recyclable,#9fcd3b,small
+734,35.42,waste,874 Norway Maple Road,5/4/2022,8:27 PM,paper,hazardous waste,#55dd0a,small
+735,29.89,recycling,7 Division Park,5/14/2022,2:43 AM,paper,hazardous waste,#35dc2c,large
+736,50.52,recycling,35 Utah Terrace,10/14/2022,11:25 PM,plastic,hazardous waste,#bc725e,medium
+737,97.33,compost,20 Schlimgen Terrace,6/22/2022,11:19 PM,metal,food waste,#be1746,medium
+738,52.9,recycling,3 Anderson Parkway,10/13/2022,2:56 AM,glass,hazardous waste,#b6d73c,medium
+739,39.54,recycling,479 Norway Maple Trail,5/11/2022,7:38 AM,plastic,hazardous waste,#899de5,small
+740,38.47,compost,360 Dunning Avenue,11/2/2022,3:47 AM,paper,hazardous waste,#04b617,small
+741,60.22,waste,69 Caliangt Alley,4/14/2022,9:13 PM,glass,food waste,#716a49,small
+742,36.17,recycling,8568 Hoepker Street,5/6/2022,6:17 PM,plastic,hazardous waste,#56216e,small
+743,48.75,recycling,64925 Transport Trail,12/1/2022,4:40 PM,plastic,food waste,#424cae,large
+744,80.89,compost,5 Ruskin Center,11/15/2022,9:05 AM,metal,hazardous waste,#a93d2b,small
+,32.04,compost,70372 Weeping Birch Parkway,2/19/2022,8:23 AM,metal,non-recyclable,#619496,small
+746,86.17,waste,0 Summer Ridge Center,2/8/2022,9:10 PM,metal,hazardous waste,#5347bd,medium
+747,56.18,waste,98 Thierer Avenue,4/27/2022,12:32 PM,plastic,food waste,,large
+748,78.92,recycling,6867 Marcy Place,1/4/2022,2:49 PM,glass,non-recyclable,#53e871,large
+749,81.2,compost,76 Westport Lane,11/29/2022,9:14 AM,glass,non-recyclable,#7adf76,medium
+750,85.32,recycling,1 Maple Wood Avenue,8/22/2022,3:08 AM,metal,non-recyclable,#5add61,large
+751,63.78,waste,42003 Nancy Parkway,11/16/2022,8:15 AM,plastic,food waste,#99898e,medium
+752,60.95,waste,18015 8th Court,1/6/2022,11:57 AM,paper,food waste,#a76210,medium
+753,67.86,recycling,5 Bluestem Avenue,8/18/2022,2:58 PM,plastic,food waste,#c75939,medium
+754,92.38,waste,931 Stone Corner Hill,4/22/2022,12:14 AM,glass,non-recyclable,#2a8ce1,medium
+755,37.52,recycling,08051 Everett Point,3/3/2022,8:15 PM,metal,food waste,#3a2b49,small
+756,62.73,compost,13 Parkside Terrace,4/22/2022,12:43 PM,glass,food waste,#cbf0ce,large
+757,22.12,waste,24530 Morrow Circle,11/14/2022,12:06 AM,metal,hazardous waste,#9e66c1,large
+758,42.58,compost,4716 Harper Street,1/27/2022,2:58 PM,glass,food waste,#ce8f8e,small
+759,45.13,recycling,,11/26/2022,3:42 AM,metal,food waste,#20937f,large
+760,29.2,compost,,3/13/2022,12:51 PM,metal,non-recyclable,#2cb255,large
+761,87.18,waste,5 Havey Circle,6/30/2022,6:19 AM,plastic,hazardous waste,,large
+762,75.63,waste,48806 Starling Place,9/18/2022,6:59 AM,paper,hazardous waste,#47f24a,small
+763,78.44,recycling,03 Londonderry Crossing,7/3/2022,9:58 PM,paper,non-recyclable,#ea2eee,large
+764,45.92,compost,44 Scott Way,12/7/2022,8:02 AM,glass,non-recyclable,#6573cf,medium
+765,47.37,compost,19 Springs Avenue,11/24/2022,9:14 AM,paper,food waste,#161615,small
+766,43.98,waste,7533 Saint Paul Place,10/20/2022,2:07 PM,paper,food waste,#798679,small
+767,39.14,compost,37879 Schiller Park,12/8/2022,5:56 PM,glass,non-recyclable,#5927ff,small
+768,29.9,waste,2 Judy Place,3/6/2022,10:54 PM,paper,food waste,,medium
+769,12.9,compost,971 Grim Drive,8/20/2022,1:04 AM,glass,food waste,#825087,small
+770,28.46,recycling,653 Melrose Court,1/18/2022,4:01 PM,glass,food waste,,medium
+771,33.06,waste,4 Oakridge Court,12/15/2022,3:56 AM,metal,hazardous waste,#c94e2a,small
+772,40.77,recycling,44 Gina Park,12/18/2022,9:03 PM,plastic,hazardous waste,#241b26,large
+773,54.92,waste,94 Sunnyside Parkway,4/6/2022,3:52 AM,plastic,non-recyclable,#192b2e,small
+774,95.32,waste,06 Quincy Pass,2/27/2022,5:43 AM,glass,hazardous waste,#56a662,large
+775,66.86,waste,849 Gerald Place,2/12/2022,1:21 PM,glass,food waste,#6a3dfc,small
+776,21.15,recycling,25 Westridge Pass,5/12/2022,4:06 PM,plastic,non-recyclable,,large
+777,70.24,recycling,3950 Shopko Pass,3/11/2022,11:08 PM,metal,non-recyclable,#cd871f,small
+778,62.93,compost,0593 Maryland Parkway,8/31/2022,10:34 AM,paper,non-recyclable,#886bbd,large
+779,97.08,recycling,5972 Schlimgen Drive,6/15/2022,3:27 AM,glass,non-recyclable,,large
+780,16.67,compost,1 Annamark Terrace,3/20/2022,4:50 PM,plastic,food waste,#328229,medium
+781,74.66,waste,1552 Reinke Plaza,9/14/2022,5:06 AM,glass,food waste,#01f385,small
+782,53.23,waste,47 Hermina Point,2/8/2022,1:11 PM,glass,food waste,#2746ab,large
+783,60.03,waste,0 Shoshone Circle,5/29/2022,4:23 PM,plastic,hazardous waste,#6cf96e,medium
+784,63.99,compost,84 Glacier Hill Junction,1/14/2022,6:56 PM,metal,food waste,#8eb720,medium
+785,40.16,compost,077 Springview Center,1/16/2022,4:47 PM,paper,food waste,#e66e80,small
+786,94.38,compost,01823 Hauk Road,7/27/2022,8:12 PM,plastic,non-recyclable,#1d1607,large
+787,69.23,waste,569 Butterfield Junction,11/28/2022,10:38 AM,metal,food waste,#f07073,small
+788,91.82,waste,4364 Sage Terrace,4/19/2022,1:12 AM,plastic,non-recyclable,#898139,large
+789,73.88,compost,39 Maywood Lane,7/27/2022,1:56 PM,plastic,food waste,#c72ef2,large
+790,40.78,compost,528 Dovetail Road,11/2/2022,10:01 PM,plastic,non-recyclable,#7bac7d,medium
+791,7.65,recycling,,2/1/2022,9:15 PM,plastic,non-recyclable,#ff22f2,small
+792,26.52,recycling,5 Mcguire Lane,2/2/2022,1:25 PM,glass,hazardous waste,,large
+793,63.87,waste,04447 International Court,4/30/2022,4:28 AM,glass,non-recyclable,#3323ec,large
+794,84.76,waste,5342 Vernon Lane,12/1/2022,2:34 PM,glass,hazardous waste,#7b0ecf,small
+795,59.49,waste,142 Katie Park,3/17/2022,11:28 AM,plastic,food waste,#295601,large
+796,10.72,recycling,286 Aberg Parkway,11/17/2022,5:04 PM,paper,non-recyclable,#77bc98,small
+797,23.67,recycling,259 Clove Point,3/2/2022,3:44 AM,glass,food waste,#957733,medium
+798,3.5,compost,7649 Spaight Center,11/29/2022,10:08 PM,plastic,food waste,#1aa553,small
+799,8.77,recycling,8 Forster Pass,7/3/2022,2:38 AM,paper,hazardous waste,#5de75f,medium
+800,82.44,recycling,79 Summer Ridge Hill,1/25/2022,2:20 AM,metal,food waste,#fec8aa,small
+801,36.8,compost,1 Esch Way,12/17/2022,4:04 AM,metal,food waste,#8e869e,medium
+802,13.44,recycling,50 4th Lane,5/10/2022,10:29 PM,plastic,food waste,#9cdb5e,small
+803,88.15,recycling,19580 John Wall Drive,9/21/2022,4:38 PM,metal,hazardous waste,#382fbd,large
+804,51.7,waste,72673 Upham Way,4/8/2022,10:32 AM,paper,hazardous waste,,large
+805,95.69,recycling,2458 Beilfuss Hill,5/16/2022,4:38 PM,plastic,food waste,#8bb7a0,small
+806,88.99,compost,52 Old Gate Parkway,3/1/2022,10:46 PM,metal,non-recyclable,#b57ef8,medium
+807,14.28,recycling,39 Rusk Pass,12/19/2022,9:52 PM,plastic,food waste,#32c487,small
+808,31.85,compost,5 Darwin Point,8/9/2022,4:26 AM,paper,hazardous waste,#ccbdf5,small
+809,21.5,recycling,7 Red Cloud Hill,3/8/2022,6:53 AM,plastic,food waste,#9f903c,medium
+810,34.01,waste,633 Raven Alley,6/21/2022,2:19 AM,plastic,hazardous waste,#4c5da5,large
+811,40.59,recycling,001 Warbler Terrace,9/4/2022,5:11 PM,metal,non-recyclable,#883f93,large
+812,32.51,waste,95088 Briar Crest Circle,10/20/2022,11:34 PM,metal,hazardous waste,#97ba98,small
+813,58.12,recycling,,6/2/2022,9:59 PM,metal,non-recyclable,#e8cbfa,small
+814,13.6,compost,7 New Castle Way,8/30/2022,9:19 AM,paper,food waste,#e8b2df,small
+815,76.76,compost,0 Waywood Center,7/15/2022,5:04 AM,glass,hazardous waste,#535eb0,small
+816,45.48,compost,23613 Gina Alley,4/21/2022,9:49 AM,paper,hazardous waste,#00529e,medium
+817,95.26,compost,0 Stang Junction,8/25/2022,4:02 AM,paper,food waste,#96b7fc,small
+818,98.34,compost,0 Myrtle Terrace,8/30/2022,11:56 AM,plastic,hazardous waste,#bbb8e4,large
+819,62.02,waste,628 Green Drive,6/11/2022,4:37 AM,paper,hazardous waste,#68a319,large
+820,24.63,compost,1755 Lukken Circle,10/1/2022,9:54 PM,plastic,non-recyclable,#3dab5b,small
+821,7.94,compost,7979 Beilfuss Parkway,1/12/2022,4:48 PM,metal,hazardous waste,#6c79c5,large
+822,95.79,waste,9432 Grayhawk Junction,1/10/2022,11:03 AM,glass,food waste,#df363b,small
+823,29.13,compost,7100 Hoffman Court,2/1/2022,4:05 AM,paper,non-recyclable,#79cde1,small
+,19.87,recycling,448 Hoepker Trail,10/12/2022,11:25 PM,metal,food waste,#cac32b,large
+825,68.62,recycling,7 Buell Terrace,10/26/2022,2:22 PM,plastic,food waste,#3b79f2,small
+826,3.36,recycling,686 Clarendon Avenue,1/21/2022,3:57 AM,metal,non-recyclable,#379057,small
+827,85.89,recycling,,2/22/2022,12:30 AM,plastic,food waste,#4adbd2,large
+828,84.22,recycling,05363 Truax Avenue,11/29/2022,6:17 AM,plastic,food waste,,large
+829,47.25,compost,38867 Hovde Hill,4/30/2022,6:40 AM,paper,food waste,#5efd18,medium
+830,94.88,recycling,56465 Milwaukee Trail,8/18/2022,6:23 PM,plastic,hazardous waste,#7453bf,large
+831,59.07,recycling,085 Orin Place,6/3/2022,8:25 PM,plastic,hazardous waste,#9ba55e,large
+832,58.11,waste,674 Elmside Trail,1/15/2022,7:56 AM,metal,food waste,#cc7817,small
+833,73.59,compost,823 Porter Place,4/21/2022,9:49 AM,paper,non-recyclable,#e9adaf,medium
+834,40.14,recycling,9 Hoard Road,5/12/2022,12:11 PM,plastic,food waste,#ae3497,large
+835,68.87,recycling,01 Spohn Street,10/26/2022,6:12 AM,plastic,food waste,#9ac2d9,small
+836,84.66,compost,93 Birchwood Alley,11/28/2022,6:41 AM,paper,food waste,#82288a,small
+837,94.43,compost,07 Talmadge Place,6/8/2022,1:07 AM,plastic,food waste,#9f2e84,large
+838,46.32,waste,54024 Meadow Ridge Avenue,5/26/2022,8:01 PM,paper,non-recyclable,#2c85c9,small
+839,0.25,recycling,,1/12/2022,10:21 AM,glass,hazardous waste,#9de5b4,large
+840,67.02,waste,01467 Kropf Junction,2/10/2022,4:08 PM,metal,food waste,#c059be,small
+841,75.36,recycling,33884 Bunting Drive,2/20/2022,2:55 PM,glass,non-recyclable,,large
+842,63.99,waste,1956 Coleman Junction,10/23/2022,8:58 PM,metal,food waste,#bceff1,small
+843,23.39,recycling,3590 Annamark Court,1/24/2022,2:00 PM,paper,non-recyclable,#0c1895,medium
+844,86.44,waste,351 Forest Circle,3/11/2022,6:21 AM,glass,food waste,#e7fcd6,large
+845,9.48,recycling,570 Susan Trail,6/22/2022,9:15 PM,paper,food waste,#16b3ca,large
+,44.69,recycling,1148 Shasta Drive,4/23/2022,7:49 PM,paper,food waste,#704375,large
+847,35.5,recycling,36 Crownhardt Park,1/6/2022,3:24 AM,plastic,hazardous waste,#fc9f59,large
+848,19.63,compost,,9/9/2022,7:50 PM,plastic,non-recyclable,#c8aa21,small
+849,67.57,recycling,7 Mallard Park,3/9/2022,10:30 PM,metal,non-recyclable,#be65e5,large
+850,25.44,waste,99 Donald Place,5/3/2022,6:42 PM,glass,hazardous waste,#5b2e98,medium
+851,8.91,waste,84070 Manley Plaza,4/12/2022,9:43 PM,plastic,food waste,,large
+852,12.75,waste,2040 Sauthoff Alley,7/15/2022,8:30 AM,paper,non-recyclable,#83628c,medium
+853,2.05,recycling,93667 Rutledge Place,6/10/2022,9:51 PM,paper,food waste,#3a362f,large
+854,31.52,recycling,48 Vahlen Way,3/20/2022,8:46 AM,glass,food waste,#d63555,large
+855,66.21,waste,96757 Carberry Center,9/12/2022,12:01 PM,metal,non-recyclable,#439915,medium
+856,0.78,compost,2453 Roth Pass,3/8/2022,6:02 PM,paper,hazardous waste,#25533d,large
+857,76.23,compost,227 Vahlen Place,2/19/2022,10:32 AM,plastic,non-recyclable,#5d6b88,large
+858,75.11,recycling,07430 Kropf Avenue,7/3/2022,12:24 PM,metal,non-recyclable,#68eb0a,medium
+859,8.15,recycling,30172 Charing Cross Place,8/29/2022,1:31 PM,metal,food waste,#3d3a90,large
+860,93.18,waste,73765 Everett Hill,8/19/2022,3:05 AM,plastic,hazardous waste,#e6b7f8,medium
+861,89.83,recycling,5 Sheridan Drive,5/12/2022,10:05 PM,glass,food waste,#97be0f,small
+862,79.33,recycling,260 Farwell Center,3/19/2022,5:03 AM,metal,food waste,#1423b9,large
+863,62.98,recycling,604 Pleasure Circle,4/21/2022,3:08 PM,paper,non-recyclable,#9445ae,medium
+864,10.69,compost,918 Bellgrove Park,7/14/2022,1:52 AM,plastic,non-recyclable,#4ee925,medium
+865,0.11,compost,7 American Terrace,9/9/2022,11:42 PM,paper,non-recyclable,#4927cc,small
+866,31.13,compost,3667 Forest Avenue,1/8/2022,6:27 AM,plastic,food waste,#52d01c,large
+867,68.48,waste,109 Anderson Road,5/5/2022,10:24 AM,glass,non-recyclable,#d2e344,large
+868,95.49,recycling,045 3rd Park,7/22/2022,8:26 AM,paper,food waste,#ae77c0,medium
+869,77.95,compost,899 Hovde Junction,11/19/2022,8:42 PM,glass,food waste,#7542ec,small
+870,83.39,compost,94972 Dakota Plaza,11/24/2022,9:32 PM,glass,hazardous waste,#970475,large
+871,60.14,recycling,4487 Waywood Crossing,12/3/2022,2:18 AM,plastic,non-recyclable,#ad5266,large
+872,28.26,waste,,4/16/2022,8:10 PM,glass,non-recyclable,#470cf6,small
+873,20.39,compost,240 Bartelt Alley,10/29/2022,6:21 PM,glass,food waste,#735c35,large
+874,20.68,waste,2280 Forest Run Circle,9/13/2022,1:26 AM,plastic,non-recyclable,#62a398,large
+875,70.92,recycling,4 Moulton Circle,9/6/2022,12:41 PM,metal,hazardous waste,#5ef618,small
+876,73.42,recycling,648 Lawn Hill,6/9/2022,6:54 AM,plastic,hazardous waste,#25c35a,medium
+877,79.79,waste,4364 Orin Place,9/11/2022,5:06 PM,plastic,food waste,#cb0fe4,large
+878,61.33,recycling,9569 Meadow Vale Drive,2/4/2022,9:12 AM,plastic,hazardous waste,#b649d0,small
+879,40.89,recycling,80 Hudson Park,4/7/2022,11:42 PM,metal,food waste,#0ebe75,medium
+880,36.23,compost,13139 Southridge Circle,10/18/2022,2:49 PM,metal,hazardous waste,#ea2307,medium
+881,88.94,recycling,451 Quincy Drive,1/7/2022,12:10 PM,plastic,non-recyclable,#a1094d,medium
+882,7.85,waste,84574 Nancy Center,12/1/2022,2:59 AM,paper,food waste,#151ed0,small
+883,70.57,recycling,2127 Randy Trail,9/7/2022,3:54 AM,paper,food waste,#22974f,small
+884,78.16,waste,866 Dorton Park,6/5/2022,2:27 PM,metal,non-recyclable,#42479c,medium
+885,62.63,recycling,99891 Golden Leaf Parkway,2/22/2022,7:15 PM,glass,hazardous waste,#7250cb,medium
+886,71.09,recycling,8089 Blue Bill Park Point,5/19/2022,9:47 AM,plastic,food waste,#3b7ad0,small
+887,9.63,recycling,7 Lindbergh Plaza,4/19/2022,11:47 AM,metal,food waste,#3e965a,small
+888,95.03,recycling,,2/26/2022,1:51 AM,paper,non-recyclable,#613ada,large
+889,71.57,recycling,340 Barnett Junction,8/17/2022,1:58 PM,metal,food waste,#b2bdd7,medium
+890,70.35,recycling,2445 Erie Terrace,12/27/2022,12:42 PM,plastic,hazardous waste,#899b52,medium
+891,35.37,waste,,1/19/2022,4:01 PM,metal,non-recyclable,#182731,large
+892,13.25,recycling,9617 Westport Alley,10/20/2022,4:46 AM,paper,food waste,#691384,small
+893,93.39,compost,195 David Crossing,6/8/2022,6:11 AM,plastic,non-recyclable,#cef03c,large
+894,50.83,waste,4628 Bartelt Street,3/21/2022,1:28 AM,plastic,hazardous waste,#444e18,medium
+895,47.31,recycling,9 Heffernan Way,9/23/2022,1:02 PM,glass,non-recyclable,#0ded16,small
+896,17.3,waste,9 7th Alley,1/24/2022,1:20 AM,plastic,hazardous waste,#8ab134,large
+,1.97,recycling,48224 Oneill Terrace,6/1/2022,3:54 PM,metal,hazardous waste,#f6eb93,large
+898,56.29,waste,4484 Magdeline Plaza,10/22/2022,10:07 PM,glass,non-recyclable,#d83642,medium
+899,63.41,compost,6604 Carey Terrace,1/27/2022,10:13 PM,paper,non-recyclable,,medium
+900,18.26,recycling,44684 Briar Crest Crossing,7/6/2022,12:21 PM,glass,food waste,#1a0b76,medium
+901,97.92,compost,66087 Porter Circle,11/19/2022,3:51 AM,glass,hazardous waste,#47e540,small
+902,2.59,waste,8 Texas Road,7/8/2022,11:27 AM,paper,non-recyclable,#6fa4a5,small
+903,6.92,recycling,423 Derek Center,7/11/2022,12:55 PM,paper,non-recyclable,#94fdd9,small
+904,38.03,waste,79252 Jenna Way,4/10/2022,10:30 AM,plastic,food waste,#27913c,medium
+905,60.58,compost,3356 Orin Place,8/22/2022,5:26 PM,paper,hazardous waste,#ae9579,medium
+906,28.77,compost,4844 Huxley Junction,11/4/2022,7:19 AM,paper,hazardous waste,#e780e7,medium
+907,97.73,compost,3 Caliangt Hill,4/12/2022,7:33 PM,paper,non-recyclable,#7342a9,medium
+908,59.2,waste,945 3rd Avenue,1/3/2022,3:20 AM,paper,hazardous waste,#c0c205,small
+909,63.24,waste,4 Upham Avenue,10/24/2022,3:31 AM,paper,food waste,#351455,small
+910,59.29,waste,87884 Old Shore Alley,8/13/2022,4:20 AM,metal,hazardous waste,#3ce60b,large
+911,32.65,waste,08 Eagan Trail,2/14/2022,9:46 AM,plastic,food waste,#b20eda,large
+912,98.14,compost,5 Roxbury Center,1/26/2022,2:03 AM,glass,food waste,#4b4650,medium
+913,40.68,recycling,57257 Brentwood Street,9/10/2022,10:22 AM,glass,food waste,#927360,small
+914,88.2,recycling,0700 Moland Trail,8/26/2022,10:38 AM,metal,hazardous waste,#a97dce,medium
+915,78.77,compost,743 Walton Crossing,10/2/2022,1:44 AM,glass,food waste,#5875b1,medium
+916,59.66,recycling,235 Straubel Circle,4/24/2022,2:59 PM,paper,non-recyclable,#7d623a,small
+917,67.72,recycling,4 Westend Way,10/5/2022,5:43 PM,paper,non-recyclable,#cdd4be,small
+,83.52,compost,2 Old Gate Way,9/30/2022,9:50 AM,glass,hazardous waste,#87cf4e,medium
+919,85.46,recycling,707 Barnett Circle,8/24/2022,4:23 PM,metal,food waste,#fabfbe,medium
+,34.1,compost,91469 Kensington Parkway,9/4/2022,1:52 AM,paper,food waste,,medium
+921,77.81,compost,,12/12/2022,7:32 AM,plastic,non-recyclable,#a25c3a,small
+922,84.32,compost,40093 Bay Place,8/18/2022,8:25 PM,metal,non-recyclable,#137a95,small
+923,61.27,waste,3 Blaine Street,7/7/2022,2:56 PM,metal,non-recyclable,#b39d2d,small
+924,71.44,recycling,13044 Gulseth Center,1/28/2022,11:23 PM,metal,hazardous waste,#20bf0c,small
+925,18.85,compost,62635 Lake View Park,11/17/2022,12:27 PM,plastic,food waste,#23efdb,medium
+926,96.98,compost,2 Haas Trail,12/21/2022,10:53 AM,plastic,non-recyclable,#afffe2,small
+927,70.12,recycling,50 Corben Drive,3/25/2022,12:50 AM,paper,hazardous waste,#ca0fa8,medium
+928,97.88,compost,2421 School Crossing,7/6/2022,1:30 PM,metal,food waste,#f5dd78,small
+929,65.59,recycling,710 Melrose Point,3/16/2022,8:15 PM,plastic,food waste,#cd0104,medium
+930,73.12,recycling,4 Westport Place,8/31/2022,7:52 PM,glass,non-recyclable,#cd670d,large
+931,57.31,waste,,8/2/2022,3:37 AM,plastic,hazardous waste,,small
+932,18.62,recycling,6579 Artisan Court,8/19/2022,5:20 AM,paper,food waste,#e8d4e8,large
+933,49.86,waste,5061 Tomscot Court,9/22/2022,5:29 PM,glass,hazardous waste,#07120c,medium
+934,90.94,recycling,7 Warbler Junction,5/29/2022,9:49 AM,plastic,hazardous waste,#47c36f,large
+935,79.89,recycling,7 Macpherson Alley,10/24/2022,10:42 PM,glass,non-recyclable,#4eb6bc,small
+936,11.29,recycling,85 Farmco Place,5/16/2022,6:57 AM,metal,hazardous waste,#c0a5b7,medium
+937,27.54,compost,153 Surrey Road,9/25/2022,4:33 PM,plastic,non-recyclable,#9e332b,medium
+938,19.26,waste,53 Carpenter Hill,11/22/2022,8:35 AM,metal,food waste,#8ade8c,large
+939,31.6,recycling,36467 Del Sol Junction,8/30/2022,6:26 AM,metal,food waste,#bb5db9,medium
+940,42.33,recycling,96 Cardinal Trail,7/16/2022,1:12 PM,metal,hazardous waste,#4c9e33,large
+941,40.52,recycling,2 Crest Line Center,4/29/2022,8:26 AM,paper,non-recyclable,#aa8aab,large
+942,6.63,compost,34 Claremont Way,1/25/2022,9:28 AM,metal,food waste,#1e0767,medium
+943,13.19,compost,190 Mesta Terrace,10/11/2022,8:52 AM,glass,food waste,#45902d,small
+944,39.09,recycling,6 Lillian Street,6/22/2022,2:04 AM,plastic,hazardous waste,#d0777f,small
+945,16.58,compost,2145 Maryland Lane,8/30/2022,4:58 PM,paper,non-recyclable,#94c32d,small
+946,69.87,recycling,,4/16/2022,7:02 AM,metal,food waste,#9281b6,large
+947,85.51,recycling,3880 Sutherland Street,1/14/2022,4:51 PM,paper,hazardous waste,#b52cf5,medium
+948,91.94,compost,2404 Fair Oaks Road,7/28/2022,10:01 AM,glass,non-recyclable,#249092,small
+949,79.18,waste,1 Westend Court,5/8/2022,7:49 AM,glass,non-recyclable,#704aed,medium
+950,89.12,recycling,93 Rusk Terrace,7/2/2022,4:56 AM,plastic,non-recyclable,#24daa8,small
+951,98.78,compost,4 Everett Trail,9/25/2022,5:42 AM,metal,non-recyclable,#078a29,large
+952,63.93,compost,6943 Washington Street,1/30/2022,7:41 PM,metal,hazardous waste,#78f30f,large
+953,98.43,waste,43 Morning Lane,12/19/2022,2:33 AM,metal,non-recyclable,#309d25,medium
+954,94.66,recycling,6841 Armistice Court,8/2/2022,10:51 AM,paper,hazardous waste,#4b2b04,small
+955,30.99,waste,65810 Gulseth Junction,4/12/2022,3:52 PM,glass,non-recyclable,#b3a9fe,small
+956,2.2,compost,3434 Lerdahl Plaza,8/28/2022,1:37 PM,plastic,food waste,#272a2d,medium
+957,29.52,waste,79683 Miller Avenue,12/12/2022,1:43 AM,metal,food waste,#5deb2e,large
+958,1.15,recycling,6136 Mallard Place,7/8/2022,4:22 AM,plastic,non-recyclable,#bdb449,large
+959,74.52,waste,73665 Merry Lane,5/11/2022,1:30 AM,glass,non-recyclable,#4c988b,large
+960,86.36,waste,4 Heffernan Trail,9/2/2022,5:38 PM,plastic,hazardous waste,#5f0464,small
+961,12.54,compost,73766 Schmedeman Pass,6/20/2022,6:57 AM,glass,hazardous waste,#5fd4fd,small
+962,59.93,recycling,84 Grim Crossing,8/25/2022,3:20 AM,plastic,hazardous waste,#3e89e1,medium
+963,12.49,compost,1355 Oriole Way,7/2/2022,2:15 AM,glass,non-recyclable,#78cc01,large
+964,40.4,waste,838 Maple Wood Plaza,2/14/2022,8:51 AM,paper,food waste,#55a9f8,large
+965,82.54,compost,71 Burrows Park,10/2/2022,8:53 PM,metal,non-recyclable,#623ca7,small
+966,86.35,recycling,1338 Randy Center,1/21/2022,3:29 AM,plastic,non-recyclable,#1148c6,medium
+967,19.63,recycling,5763 Drewry Lane,11/8/2022,11:16 AM,glass,food waste,#94739c,large
+968,90.23,waste,683 Jana Road,7/26/2022,3:40 PM,glass,hazardous waste,#be0378,medium
+969,68.81,recycling,227 Nova Crossing,3/16/2022,9:53 PM,glass,hazardous waste,#2d01d2,medium
+970,64.84,compost,2 Dryden Road,11/18/2022,11:20 AM,paper,hazardous waste,#9b8464,large
+971,90.42,compost,56 Stang Place,1/15/2022,7:37 AM,metal,hazardous waste,#2752d5,large
+972,65.87,compost,83 Pankratz Park,10/19/2022,12:22 AM,glass,food waste,#e9c13f,medium
+973,9.21,waste,390 Everett Trail,2/2/2022,3:04 AM,paper,food waste,#85356d,large
+974,18.53,compost,6537 Moulton Court,7/26/2022,1:25 AM,glass,food waste,#2ea885,large
+975,44.67,compost,6612 Corben Street,10/26/2022,7:57 PM,paper,non-recyclable,#df5f21,large
+976,43.1,waste,80 Bay Circle,1/9/2022,7:50 PM,metal,hazardous waste,#aed015,medium
+977,49.82,compost,2 Golden Leaf Drive,10/31/2022,9:40 AM,metal,hazardous waste,#4c0a33,large
+978,64.11,waste,7 Wayridge Court,10/30/2022,11:48 AM,plastic,food waste,#8970a7,small
+979,97.75,compost,8 Hallows Way,9/19/2022,12:04 PM,glass,hazardous waste,#d55bbf,small
+980,45.51,recycling,6100 Mayer Hill,3/29/2022,7:40 PM,plastic,food waste,#ca3e7e,small
+981,79.35,recycling,96990 Marquette Circle,6/11/2022,4:01 PM,plastic,hazardous waste,#69e15b,medium
+982,88.42,waste,1 Riverside Crossing,6/15/2022,9:51 PM,plastic,food waste,#c656a5,large
+983,42.65,recycling,7 Bultman Place,4/15/2022,12:13 AM,plastic,hazardous waste,#ebeee7,medium
+984,95.87,waste,66 Nelson Plaza,11/17/2022,3:41 AM,metal,hazardous waste,#82526d,large
+985,47.47,recycling,1693 Johnson Crossing,2/6/2022,1:43 AM,plastic,hazardous waste,#15c577,small
+986,95.46,waste,4156 John Wall Circle,2/10/2022,5:09 AM,plastic,hazardous waste,#cb7667,medium
+987,9.09,waste,2833 Blackbird Avenue,6/7/2022,11:06 AM,glass,food waste,#219014,large
+988,62.7,waste,,6/6/2022,11:17 PM,paper,hazardous waste,#805e64,large
+989,10.71,compost,231 Atwood Point,7/7/2022,3:32 AM,plastic,non-recyclable,#d22ab2,large
+990,19.02,compost,14 Waxwing Avenue,12/6/2022,1:49 PM,glass,food waste,#79b9d2,large
+991,21.44,compost,05 Prairie Rose Street,8/9/2022,6:51 AM,plastic,non-recyclable,#a9b91a,large
+992,46.07,recycling,,1/11/2022,11:50 AM,paper,food waste,#1afcea,medium
+993,85.27,recycling,4087 Hazelcrest Crossing,1/9/2022,5:57 AM,paper,non-recyclable,#27d146,small
+994,62.35,waste,992 Anhalt Way,1/19/2022,3:29 PM,metal,non-recyclable,#3c1922,small
+995,44.54,recycling,2 Knutson Trail,1/18/2022,8:32 PM,metal,non-recyclable,#6240f3,large
+996,89.51,recycling,3094 Crownhardt Way,8/26/2022,12:15 PM,plastic,non-recyclable,#46eb7d,medium
+997,22.65,waste,971 Division Road,9/6/2022,8:35 AM,metal,non-recyclable,#eed9ac,medium
+998,78.32,compost,168 Maple Drive,10/12/2022,9:52 AM,metal,non-recyclable,#6940c0,large
+999,67.27,compost,01366 Schurz Pass,11/9/2022,11:36 PM,paper,non-recyclable,#f843a9,large
+1000,63.59,compost,24943 Vera Hill,12/13/2022,4:49 AM,glass,non-recyclable,#73e657,medium
