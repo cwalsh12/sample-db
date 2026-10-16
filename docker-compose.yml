@@ -7,10 +7,20 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
+      # Read by sql/setup/02_roles.sql to set the login roles' passwords
+      ETL_PASSWORD: ${ETL_PASSWORD}
+      SUPERSET_READER_PASSWORD: ${SUPERSET_READER_PASSWORD}
     ports:
-      - "${POSTGRES_PORT}:5432"
+      # 127.0.0.1 = only reachable from this machine, never from the internet.
+      # On the Oracle VM you reach it through an SSH tunnel instead.
+      - "127.0.0.1:${POSTGRES_PORT}:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
+      # Postgres runs these files automatically, in name order, but ONLY when
+      # pgdata is empty (the very first start, e.g. a fresh Oracle VM)
+      - ./sql/setup:/docker-entrypoint-initdb.d:ro
+      # Makes the sql folder visible inside the container, for running files by hand
+      - ./sql:/sql:ro
 
 volumes:
   pgdata:

@@ -152,6 +152,9 @@ activemq-data/
 # Environments
 .env
 .envrc
+
+# Credential files (e.g. the Google service account key). Never commit these.
+secrets/
 .venv
 env/
 venv/
